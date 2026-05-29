@@ -1,0 +1,2459 @@
+{
+  "label": "D&D: RollTable",
+  "mapping": {
+    "name": "name",
+    "description": "description",
+    "results": {
+      "path": "results",
+      "converter": "pbpeTableResults"
+    }
+  },
+  "folders": {
+    "Tables": "Tables"
+  },
+  "entries": {
+    "SkHaHbcKXNxFVfGr": {
+      "name": "Appendix D: Monsters and NPCs; New Creatures by Challenge Rating",
+      "description": "<div class=\"ve-muted\"><i>Creature | CR</i></div>",
+      "results": {
+        "1-1": {
+          "description": "Baba Lysaga | 11",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "Baba Lysaga's creeping hut | 11",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "Broom of animated attack | 1/4",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "Barovian witch | 1/2",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "Ezmerelda d'Avenir | 8",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "Guardian portrait | 1",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        },
+        "7-7": {
+          "description": "Izek Strazni | 5",
+          "range": {
+            "0": 7,
+            "1": 7
+          }
+        },
+        "8-8": {
+          "description": "Madam Eva | 10",
+          "range": {
+            "0": 8,
+            "1": 8
+          }
+        },
+        "9-9": {
+          "description": "Mongrelfolk | 1/4",
+          "range": {
+            "0": 9,
+            "1": 9
+          }
+        },
+        "10-10": {
+          "description": "Phantom warrior | 3",
+          "range": {
+            "0": 10,
+            "1": 10
+          }
+        },
+        "11-11": {
+          "description": "Pidlwick II | 1/4",
+          "range": {
+            "0": 11,
+            "1": 11
+          }
+        },
+        "12-12": {
+          "description": "Rahadin | 10",
+          "range": {
+            "0": 12,
+            "1": 12
+          }
+        },
+        "13-13": {
+          "description": "Rictavio | 5",
+          "range": {
+            "0": 13,
+            "1": 13
+          }
+        },
+        "14-14": {
+          "description": "Strahd's animated armor | 6",
+          "range": {
+            "0": 14,
+            "1": 14
+          }
+        },
+        "15-15": {
+          "description": "Strahd von Zarovich | 15",
+          "range": {
+            "0": 15,
+            "1": 15
+          }
+        },
+        "16-16": {
+          "description": "Strahd zombie | 1",
+          "range": {
+            "0": 16,
+            "1": 16
+          }
+        },
+        "17-17": {
+          "description": "Tree blight | 7",
+          "range": {
+            "0": 17,
+            "1": 17
+          }
+        },
+        "18-18": {
+          "description": "Vladimir Horngaard | 7",
+          "range": {
+            "0": 18,
+            "1": 18
+          }
+        },
+        "19-19": {
+          "description": "Wereraven | 2",
+          "range": {
+            "0": 19,
+            "1": 19
+          }
+        }
+      }
+    },
+    "1Dvx50ZLWk1nVDuD": {
+      "name": "Approaching the Winery",
+      "description": "<div class=\"ve-muted\"><i>Round | Creatures</i></div>",
+      "results": {
+        "1-1": {
+          "description": "3 | 1 @creature[druid] and 24 @creature[Twig Blight||twig blights] (from area W9)",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "4 | 1 @creature[druid] and 5 @creature[Needle Blight||needle blights] (from area W14)",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "5 | 1 @creature[druid] and 2 @creature[Vine Blight||vine blights] (from area W20)",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        }
+      }
+    },
+    "kXa0zUGUjsLmITDR": {
+      "name": "Beyond the House; Dread Possibilities",
+      "description": "<div class=\"ve-muted\"><i>Further Adventures</i></div>",
+      "results": {
+        "1-1": {
+          "description": "The characters glimpse the winged figure they saw at the start of the adventure through the Mists. It leads them to a random domain.",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "The investigators invite the characters to join them in Mordentshire. The characters gain a reputation as phantom liberators, a talent the spirits of Mordent desperately need (see chapter 3).",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "The party travels from the house to Borca (see chapter 3), where they're contacted by either Ivana Boritsi or Ivan Dilisnya, who is eager to hear all about their exploits.",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "Firan Zal'honan (see chapter 3) seeks out the characters and is interested in learning about their experience at the house. He's eager to patronize their search for \"amber sarcophagi.\"",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        }
+      }
+    },
+    "z50hXk2iAnmzqWx3": {
+      "name": "Blinsky Toy",
+      "description": "<div class=\"ve-muted\"><i>Toy</i></div>",
+      "results": {
+        "1-1": {
+          "description": "A plush werewolf stuffed with sawdust and tiny wood-carved babies. It has dull knife blades for claws and retractable teeth.",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "A smiling jester marionette with tangled strings and tiny copper bells sewn into its cap.",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "A wooden puzzle box, 6 inches on a side, carved with silhouettes of leering clown faces. The box rattles when shaken. A character who spends a short rest fiddling with the box can figure out how to open it with a successful DC 20 Intelligence check. The box is empty, with nothing inside to explain the rattling.",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "A faceless doll in a wedding dress that has yellowed and frayed with age.",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "A vaguely coffin-shaped jack-in-the-box containing a pop-up Strahd puppet.",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "A spring-loaded set of wooden teeth with fangs, all painted white. The teeth gnash and chatter for 1 minute when the spring is wound tight (requiring an action) and released.",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        }
+      }
+    },
+    "H0hO08ZPvvKtaudV": {
+      "name": "Character Levels; Areas by Level",
+      "description": "<div class=\"ve-muted\"><i>Avg. Level | Area | Chapter</i></div>",
+      "results": {
+        "1-1": {
+          "description": "1st–3rd | Village of Barovia | 3",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "4th | Town of Vallaki | 5",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "4th | Old Bonegrinder | 6",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "5th | Village of Krezk | 8",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "5th | Wizard of Wines Winery | 12",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "6th | Van Richten's Tower | 11",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        },
+        "7-7": {
+          "description": "6th | Yester Hill | 14",
+          "range": {
+            "0": 7,
+            "1": 7
+          }
+        },
+        "8-8": {
+          "description": "7th | Argynvostholt | 7",
+          "range": {
+            "0": 8,
+            "1": 8
+          }
+        },
+        "9-9": {
+          "description": "7th | Werewolf Den | 15",
+          "range": {
+            "0": 9,
+            "1": 9
+          }
+        },
+        "10-10": {
+          "description": "8th | Tsolenka Pass | 9",
+          "range": {
+            "0": 10,
+            "1": 10
+          }
+        },
+        "11-11": {
+          "description": "8th | The Ruins of Berez | 10",
+          "range": {
+            "0": 11,
+            "1": 11
+          }
+        },
+        "12-12": {
+          "description": "9th | Castle Ravenloft | 4",
+          "range": {
+            "0": 12,
+            "1": 12
+          }
+        },
+        "13-13": {
+          "description": "9th | The Amber Temple | 13",
+          "range": {
+            "0": 13,
+            "1": 13
+          }
+        }
+      }
+    },
+    "lrBSDLMLRjRO0dhG": {
+      "name": "Coins",
+      "description": "<div class=\"ve-muted\"><i>Card | Name | Represents</i></div>",
+      "results": {
+        "1-1": {
+          "description": "Master of coins | @card[Rogue|Tarokka Deck|CoS] | Anyone for whom money is important; those who believe money is the key to their success",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "One of coins | @card[Swashbuckler|Tarokka Deck|CoS] | Those who like money yet give it up freely; likable rogues and rapscallions",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "Two of coins | @card[Philanthropist|Tarokka Deck|CoS] | Charity and giving on a grand scale; those who use wealth to fight evil and sickness",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "Three of coins | @card[Trader|Tarokka Deck|CoS] | Commerce; smuggling and black markets; fair and equitable trades",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "Four of coins | @card[Merchant|Tarokka Deck|CoS] | A rare commodity or business opportunity; deceitful or dangerous business transactions",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "Five of coins | @card[Guild Member|Tarokka Deck|CoS] | Like-minded individuals joined together in a common goal; pride in one's work",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        },
+        "7-7": {
+          "description": "Six of coins | @card[Beggar|Tarokka Deck|CoS] | Sudden change in economic status or fortune",
+          "range": {
+            "0": 7,
+            "1": 7
+          }
+        },
+        "8-8": {
+          "description": "Seven of coins | @card[Thief|Tarokka Deck|CoS] | Those who steal or burgle; a loss of property, beauty, innocence, friendship, or reputation",
+          "range": {
+            "0": 8,
+            "1": 8
+          }
+        },
+        "9-9": {
+          "description": "Eight of coins | @card[Tax Collector|Tarokka Deck|CoS] | Corruption; honesty in an otherwise corrupt government or organization",
+          "range": {
+            "0": 9,
+            "1": 9
+          }
+        },
+        "10-10": {
+          "description": "Nine of coins | @card[Miser|Tarokka Deck|CoS] | Hoarded wealth; those who are irreversibly unhappy or who think money is meaningless",
+          "range": {
+            "0": 10,
+            "1": 10
+          }
+        }
+      }
+    },
+    "yxS95rbCNqXs2j1k": {
+      "name": "Creating Ambient Haunts; Spectral Activity",
+      "description": "<div class=\"ve-muted\"><i>Activity</i></div>",
+      "results": {
+        "1-3": {
+          "description": "The spirit causes an object in the room to animate in a whimsical or unsettling manner.",
+          "range": {
+            "0": 1,
+            "1": 3
+          }
+        },
+        "4-6": {
+          "description": "The spirit leaves a brief message, threat, or question, perhaps asking where someone is or suggesting how one might hasten their demise.",
+          "range": {
+            "0": 4,
+            "1": 6
+          }
+        },
+        "7-9": {
+          "description": "The spirit walks through a wall or character.",
+          "range": {
+            "0": 7,
+            "1": 9
+          }
+        },
+        "10-11": {
+          "description": "Only a portion of the spirit appears—such as a hand, eye, heart, nervous system, or skull.",
+          "range": {
+            "0": 10,
+            "1": 11
+          }
+        },
+        "12-13": {
+          "description": "The spirit uses the room as they might have in life. If the room didn't exist when they were alive, the spirit interacts with a space others can't see (such as a stable, stairwell, or training hall).",
+          "range": {
+            "0": 12,
+            "1": 13
+          }
+        },
+        "14-15": {
+          "description": "The spirit lurks in an unexpected place, such as in a cabinet, under a bed, or in character's pack.",
+          "range": {
+            "0": 14,
+            "1": 15
+          }
+        },
+        "16-17": {
+          "description": "The spirit sees a character. It draws near, whispers a question, or flees.",
+          "range": {
+            "0": 16,
+            "1": 17
+          }
+        },
+        "18-19": {
+          "description": "The spirit recreates a terrifying moment: either its own death or someone else's visceral end.",
+          "range": {
+            "0": 18,
+            "1": 19
+          }
+        },
+        "20-20": {
+          "description": "The spirit is soundlessly ambushed by shadowy limbs that drag it into the floor or walls.",
+          "range": {
+            "0": 20,
+            "1": 20
+          }
+        }
+      }
+    },
+    "pMhdgTwOydmV6KWw": {
+      "name": "Creating Ambient Haunts; Spirits of the House",
+      "description": "<div class=\"ve-muted\"><i>Spirit</i></div>",
+      "results": {
+        "1-5": {
+          "description": "Lost Spirit. Someone bound to the house, such as a noble Mara entombed in the walls, a past investigator, or someone a character knows",
+          "range": {
+            "0": 1,
+            "1": 5
+          }
+        },
+        "6-8": {
+          "description": "Newes. The Halvhrests' off-kilter family pet (an animal of your choice)",
+          "range": {
+            "0": 6,
+            "1": 8
+          }
+        },
+        "9-10": {
+          "description": "Victro Belview. The Halvhrests' stoic, nearly 7-foot-tall butler",
+          "range": {
+            "0": 9,
+            "1": 10
+          }
+        },
+        "11-12": {
+          "description": "Loren Halvhrest. An affable merchant who loves to sing (despite being not particularly good at it)",
+          "range": {
+            "0": 11,
+            "1": 12
+          }
+        },
+        "13-15": {
+          "description": "Theodora Halvhrest. The lady of the house, who loves her family, gardening, and dancing",
+          "range": {
+            "0": 13,
+            "1": 15
+          }
+        },
+        "16-17": {
+          "description": "Dalk Dranzorg. A cruel tyrant who wears a skull-faced helmet and frequently lies",
+          "range": {
+            "0": 16,
+            "1": 17
+          }
+        },
+        "18-19": {
+          "description": "Mara Silvra. A vengeful knight who expects betrayal and tries to expel trespassers",
+          "range": {
+            "0": 18,
+            "1": 19
+          }
+        },
+        "20-20": {
+          "description": "The Entity. A shadowy malevolence that manifests as grasping limbs or wounded masses within the house's walls and floors",
+          "range": {
+            "0": 20,
+            "1": 20
+          }
+        }
+      }
+    },
+    "0QstNMIHIPUm1Tbh": {
+      "name": "Daytime Random Encounters in Barovia",
+      "description": "<div class=\"ve-muted\"><i>Encounter</i></div>",
+      "results": {
+        "2-2": {
+          "description": "[[/r 3d6]] @creature[Barovian Commoner|CoS|commoners]",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "[[/r 1d6]] @creature[Barovian Scout|CoS|scouts]",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "Hunting trap",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "Grave",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "False trail",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        },
+        "7-7": {
+          "description": "[[/r 1d4 + 1]] @creature[Vistana Bandit|cos|Vistani bandits]",
+          "range": {
+            "0": 7,
+            "1": 7
+          }
+        },
+        "8-8": {
+          "description": "Skeletal rider",
+          "range": {
+            "0": 8,
+            "1": 8
+          }
+        },
+        "9-9": {
+          "description": "Trinket",
+          "range": {
+            "0": 9,
+            "1": 9
+          }
+        },
+        "10-10": {
+          "description": "Hidden bundle",
+          "range": {
+            "0": 10,
+            "1": 10
+          }
+        },
+        "11-11": {
+          "description": "[[/r 1d4]] @creature[swarm of ravens] (50%) or 1 @creature[wereraven|VRGR] (see appendix D) in raven form (50%)",
+          "range": {
+            "0": 11,
+            "1": 11
+          }
+        },
+        "12-12": {
+          "description": "[[/r 1d6]] @creature[Dire Wolf||dire wolves]",
+          "range": {
+            "0": 12,
+            "1": 12
+          }
+        },
+        "13-13": {
+          "description": "[[/r 3d6]] @creature[Wolf||wolves]",
+          "range": {
+            "0": 13,
+            "1": 13
+          }
+        },
+        "14-14": {
+          "description": "[[/r 1d4]] @creature[Berserker||berserkers]",
+          "range": {
+            "0": 14,
+            "1": 14
+          }
+        },
+        "15-15": {
+          "description": "Corpse",
+          "range": {
+            "0": 15,
+            "1": 15
+          }
+        },
+        "16-16": {
+          "description": "[[/r 1d6]] @creature[Werewolf||werewolves] in human form",
+          "range": {
+            "0": 16,
+            "1": 16
+          }
+        },
+        "17-17": {
+          "description": "1 @creature[druid] with [[/r 2d6]] @creature[Twig Blight||twig blights]",
+          "range": {
+            "0": 17,
+            "1": 17
+          }
+        },
+        "18-18": {
+          "description": "[[/r 2d4]] @creature[Needle Blight||needle blights]",
+          "range": {
+            "0": 18,
+            "1": 18
+          }
+        },
+        "19-19": {
+          "description": "[[/r 1d6]] @creature[Scarecrow||scarecrows]",
+          "range": {
+            "0": 19,
+            "1": 19
+          }
+        },
+        "20-20": {
+          "description": "1 @creature[revenant]",
+          "range": {
+            "0": 20,
+            "1": 20
+          }
+        }
+      }
+    },
+    "DCoVnd7Jkze4SDNv": {
+      "name": "Giant Spider Cocoon",
+      "description": "<div class=\"ve-muted\"><i>Cocoon's Contents</i></div>",
+      "results": {
+        "1-1": {
+          "description": "A wooden mannequin wearing a gown.",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "A @creature[Barovian witch|CoS] (see appendix D). She screams like a wild animal and begins casting spells.",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "A @creature[Strahd zombie|CoS] (see appendix D). It fights until killed.",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "A Barovian lunatic (CN male @creature[commoner]). If freed, he cackles until silenced or until a @spell[calm emotions] spell is cast on him. A @spell[lesser restoration] spell cures his madness, at which point he tries to flee the castle.",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "A dead Barovian that serves as host to a @creature[Swarm of Spiders||swarm of insects (spiders)]. The baby giant spiders (each one the size of a tarantula) crawl out of the Barovian's gaping mouth or burst forth from its distended belly.",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "A @creature[Vistana bandit|cos] (CN male or female). The Vistana knows the castle's layout and helps the characters until Strahd or more Vistani appear, at which point the treacherous Vistana turns on the characters.",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        }
+      }
+    },
+    "QZemy6gEcT0AKX8v": {
+      "name": "Glyphs",
+      "description": "<div class=\"ve-muted\"><i>Card | Name | Represents</i></div>",
+      "results": {
+        "1-1": {
+          "description": "Master of glyphs | @card[Priest|Tarokka Deck|CoS] | Enlightenment; those who follow a deity, a system of values, or a higher purpose",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "One of glyphs | @card[Monk|Tarokka Deck|CoS] | Serenity; inner strength and self-reliance; supreme confidence bereft of arrogance",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "Two of glyphs | @card[Missionary|Tarokka Deck|CoS] | Those who spread wisdom and faith to others; warnings of the spread of fear and ignorance",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "Three of glyphs | @card[Healer|Tarokka Deck|CoS] | Healing; a contagious illness, disease, or curse; those who practice the healing arts",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "Four of glyphs | @card[Shepherd|Tarokka Deck|CoS] | Those who protect others; one who bears a burden far too great to be shouldered alone",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "Five of glyphs | @card[Druid|Tarokka Deck|CoS] | The ambivalence and cruelty of nature and those who feel drawn to it; inner turmoil",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        },
+        "7-7": {
+          "description": "Six of glyphs | @card[Anarchist|Tarokka Deck|CoS] | A fundamental change brought on by one whose beliefs are being put to the test",
+          "range": {
+            "0": 7,
+            "1": 7
+          }
+        },
+        "8-8": {
+          "description": "Seven of glyphs | @card[Charlatan|Tarokka Deck|CoS] | Liars; those who profess to believe one thing but actually believe another",
+          "range": {
+            "0": 8,
+            "1": 8
+          }
+        },
+        "9-9": {
+          "description": "Eight of glyphs | @card[Bishop|Tarokka Deck|CoS] | Strict adherence to a code or a belief; those who plot, plan, and scheme",
+          "range": {
+            "0": 9,
+            "1": 9
+          }
+        },
+        "10-10": {
+          "description": "Nine of glyphs | @card[Traitor|Tarokka Deck|CoS] | Betrayal by someone close and trusted; a weakening or loss of faith",
+          "range": {
+            "0": 10,
+            "1": 10
+          }
+        }
+      }
+    },
+    "vD2jMUzvBJcVi3bq": {
+      "name": "High Deck",
+      "description": "<div class=\"ve-muted\"><i>Name | Represents</i></div>",
+      "results": {
+        "1-1": {
+          "description": "@card[Artifact|Tarokka Deck|CoS] | The importance of some physical object that must be obtained, protected, or destroyed at all costs",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "@card[Beast|Tarokka Deck|CoS] | Great rage or passion; something bestial or malevolent hiding in plain sight or lurking just below the surface",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "@card[Broken One|Tarokka Deck|CoS] | Defeat, failure, and despair; the loss of something or someone important, without which one feels incomplete",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "@card[Darklord|Tarokka Deck|CoS] | A single, powerful individual of an evil nature, one whose goals have enormous and far-reaching consequences",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "@card[Donjon|Tarokka Deck|CoS] | Isolation and imprisonment; being so conservative in thinking as to be a prisoner of one's own beliefs",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "@card[Ghost|Tarokka Deck|CoS] | The looming past; the return of an old enemy or the discovery of a secret buried long ago",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        },
+        "7-7": {
+          "description": "@card[Executioner|Tarokka Deck|CoS] | The imminent death of one rightly or wrongly convicted of a crime; false accusations and unjust prosecution",
+          "range": {
+            "0": 7,
+            "1": 7
+          }
+        },
+        "8-8": {
+          "description": "@card[Horseman|Tarokka Deck|CoS] | Death; disaster in the form of the loss of wealth or property, a horrible defeat, or the end of a bloodline",
+          "range": {
+            "0": 8,
+            "1": 8
+          }
+        },
+        "9-9": {
+          "description": "@card[Innocent|Tarokka Deck|CoS] | A being of great importance whose life is in danger (who might be helpless or simply unaware of the peril)",
+          "range": {
+            "0": 9,
+            "1": 9
+          }
+        },
+        "10-10": {
+          "description": "@card[Marionette|Tarokka Deck|CoS] | The presence of a spy or a minion of some greater power; an encounter with a puppet or an underling",
+          "range": {
+            "0": 10,
+            "1": 10
+          }
+        },
+        "11-11": {
+          "description": "@card[Mists|Tarokka Deck|CoS] | Something unexpected or mysterious that can't be avoided; a great quest or journey that will try one's spirit",
+          "range": {
+            "0": 11,
+            "1": 11
+          }
+        },
+        "12-12": {
+          "description": "@card[Raven|Tarokka Deck|CoS] | A hidden source of information; a fortunate turn of events; a secret potential for good",
+          "range": {
+            "0": 12,
+            "1": 12
+          }
+        },
+        "13-13": {
+          "description": "@card[Seer|Tarokka Deck|CoS] | Inspiration and keen intellect; a future event, the outcome of which will hinge on a clever mind",
+          "range": {
+            "0": 13,
+            "1": 13
+          }
+        },
+        "14-14": {
+          "description": "@card[Tempter|Tarokka Deck|CoS] | One who has been compromised or led astray by temptation or foolishness; one who tempts others for evil ends",
+          "range": {
+            "0": 14,
+            "1": 14
+          }
+        }
+      }
+    },
+    "1D99JMnohwRa5SdD": {
+      "name": "House Occupants",
+      "description": "<div class=\"ve-muted\"><i>Occupant</i></div>",
+      "results": {
+        "1-3": {
+          "description": "None",
+          "range": {
+            "0": 1,
+            "1": 3
+          }
+        },
+        "4-5": {
+          "description": "[[/r 2d4]] @creature[Swarm of Rats||swarms of rats]",
+          "range": {
+            "0": 4,
+            "1": 5
+          }
+        },
+        "6-18": {
+          "description": "Vallakian townsfolk",
+          "range": {
+            "0": 6,
+            "1": 18
+          }
+        },
+        "19-20": {
+          "description": "Vallakian cultists",
+          "range": {
+            "0": 19,
+            "1": 20
+          }
+        }
+      }
+    },
+    "6PNrEl2rN3bgpidX": {
+      "name": "House Occupants; Occupants of Houses in Barovia",
+      "description": "<div class=\"ve-muted\"><i>Occupants</i></div>",
+      "results": {
+        "1-3": {
+          "description": "None",
+          "range": {
+            "0": 1,
+            "1": 3
+          }
+        },
+        "4-8": {
+          "description": "[[/r 2d4]] @creature[Swarm of Rats||swarms of rats]",
+          "range": {
+            "0": 4,
+            "1": 8
+          }
+        },
+        "9-16": {
+          "description": "Barovian villagers",
+          "range": {
+            "0": 9,
+            "1": 16
+          }
+        },
+        "17-20": {
+          "description": "[[/r 2d4]] @creature[Strahd Zombie|CoS|Strahd zombies] (see appendix D)",
+          "range": {
+            "0": 17,
+            "1": 20
+          }
+        }
+      }
+    },
+    "mZd1hetfN5E6D5Ib": {
+      "name": "Indefinite Madness",
+      "description": "<div class=\"ve-muted\"><i>Flaw (lasts until cured)</i></div>",
+      "results": {
+        "1-15": {
+          "description": "\"Being drunk keeps me sane.\"",
+          "range": {
+            "0": 1,
+            "1": 15
+          }
+        },
+        "16-25": {
+          "description": "\"I keep whatever I find.\"",
+          "range": {
+            "0": 16,
+            "1": 25
+          }
+        },
+        "26-30": {
+          "description": "\"I try to become more like someone else I know—adopting his or her style of dress, mannerisms, and name.\"",
+          "range": {
+            "0": 26,
+            "1": 30
+          }
+        },
+        "31-35": {
+          "description": "\"I must bend the truth, exaggerate, or outright lie to be interesting to other people.\"",
+          "range": {
+            "0": 31,
+            "1": 35
+          }
+        },
+        "36-45": {
+          "description": "\"Achieving my goal is the only thing of interest to me, and I'll ignore everything else to pursue it.\"",
+          "range": {
+            "0": 36,
+            "1": 45
+          }
+        },
+        "46-50": {
+          "description": "\"I find it hard to care about anything that goes on around me.\"",
+          "range": {
+            "0": 46,
+            "1": 50
+          }
+        },
+        "51-55": {
+          "description": "\"I don't like the way people judge me all the time.\"",
+          "range": {
+            "0": 51,
+            "1": 55
+          }
+        },
+        "56-70": {
+          "description": "\"I am the smartest, wisest, strongest, fastest, and most beautiful person I know.\"",
+          "range": {
+            "0": 56,
+            "1": 70
+          }
+        },
+        "71-80": {
+          "description": "\"I am convinced that powerful enemies are hunting me, and their agents are everywhere I go. I am sure they're watching me all the time.\"",
+          "range": {
+            "0": 71,
+            "1": 80
+          }
+        },
+        "81-85": {
+          "description": "\"There's only one person I can trust. And only I can see this special friend.\"",
+          "range": {
+            "0": 81,
+            "1": 85
+          }
+        },
+        "86-95": {
+          "description": "\"I can't take anything seriously. The more serious the situation, the funnier I find it.\"",
+          "range": {
+            "0": 86,
+            "1": 95
+          }
+        },
+        "96-100": {
+          "description": "\"I've discovered that I really like killing people.\"",
+          "range": {
+            "0": 96,
+            "1": 100
+          }
+        }
+      }
+    },
+    "y5EyUl9KEzexNVcY": {
+      "name": "K30. King's Accountant",
+      "description": "<div class=\"ve-muted\"><i>Creature</i></div>",
+      "results": {
+        "1-1": {
+          "description": "[[/r 1d6]] @creature[Shadow||shadows]",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "[[/r 1d4]] @creature[vampire spawn]",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "[[/r 1d4]] @creature[Wight||wights]",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "1 @creature[wraith] and [[/r 1d4 + 1]] @creature[Specter||specters]",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        }
+      }
+    },
+    "7Td3rBUO806urGGC": {
+      "name": "K78. Brazier Room",
+      "description": "<div class=\"ve-muted\"><i>Flame Color | Teleports to...</i></div>",
+      "results": {
+        "1-1": {
+          "description": "Red | Study (area K37)",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "Orange | North tower peak (area K60)",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "Yellow | Strahd's tomb (area K86)",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "Green | Coffin maker's shop (chapter 5, area N6f)",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "Blue | Amber Temple (chapter 13, area X42)",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "Indigo | Abbey of Saint Markovia (chapter 8, area S17)",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        },
+        "7-7": {
+          "description": "Violet | Tsolenka Pass (chapter 9, area T4)",
+          "range": {
+            "0": 7,
+            "1": 7
+          }
+        }
+      }
+    },
+    "Fdz4J9diImFXmhKq": {
+      "name": "Magic Item Table B",
+      "description": "<div class=\"ve-muted\"><i>Magic Item</i></div>",
+      "results": {
+        "1-15": {
+          "description": "@item[Potion of greater healing]",
+          "range": {
+            "0": 1,
+            "1": 15
+          }
+        },
+        "16-22": {
+          "description": "@item[Potion of fire breath]",
+          "range": {
+            "0": 16,
+            "1": 22
+          }
+        },
+        "23-29": {
+          "description": "@item[Potion of resistance]",
+          "range": {
+            "0": 23,
+            "1": 29
+          }
+        },
+        "30-34": {
+          "description": "@item[+1 ammunition]",
+          "range": {
+            "0": 30,
+            "1": 34
+          }
+        },
+        "35-39": {
+          "description": "@item[Potion of animal friendship]",
+          "range": {
+            "0": 35,
+            "1": 39
+          }
+        },
+        "40-44": {
+          "description": "@item[Potion of hill giant strength]",
+          "range": {
+            "0": 40,
+            "1": 44
+          }
+        },
+        "45-49": {
+          "description": "@item[Potion of growth]",
+          "range": {
+            "0": 45,
+            "1": 49
+          }
+        },
+        "50-54": {
+          "description": "@item[Potion of water breathing]",
+          "range": {
+            "0": 50,
+            "1": 54
+          }
+        },
+        "55-59": {
+          "description": "@item[Spell scroll (2nd level)]",
+          "range": {
+            "0": 55,
+            "1": 59
+          }
+        },
+        "60-64": {
+          "description": "@item[Spell scroll (3rd level)]",
+          "range": {
+            "0": 60,
+            "1": 64
+          }
+        },
+        "65-67": {
+          "description": "@item[Bag of holding]",
+          "range": {
+            "0": 65,
+            "1": 67
+          }
+        },
+        "68-70": {
+          "description": "@item[Keoghtom's ointment]",
+          "range": {
+            "0": 68,
+            "1": 70
+          }
+        },
+        "71-73": {
+          "description": "@item[Oil of slipperiness]",
+          "range": {
+            "0": 71,
+            "1": 73
+          }
+        },
+        "74-75": {
+          "description": "@item[Dust of disappearance]",
+          "range": {
+            "0": 74,
+            "1": 75
+          }
+        },
+        "76-77": {
+          "description": "@item[Dust of dryness]",
+          "range": {
+            "0": 76,
+            "1": 77
+          }
+        },
+        "78-79": {
+          "description": "@item[Dust of sneezing and choking]",
+          "range": {
+            "0": 78,
+            "1": 79
+          }
+        },
+        "80-81": {
+          "description": "@item[Elemental gem]",
+          "range": {
+            "0": 80,
+            "1": 81
+          }
+        },
+        "82-83": {
+          "description": "@item[Philter of love]",
+          "range": {
+            "0": 82,
+            "1": 83
+          }
+        },
+        "84-84": {
+          "description": "@item[Alchemy jug]",
+          "range": {
+            "0": 84,
+            "1": 84
+          }
+        },
+        "85-85": {
+          "description": "@item[Cap of water breathing]",
+          "range": {
+            "0": 85,
+            "1": 85
+          }
+        },
+        "86-86": {
+          "description": "@item[Cloak of the manta ray]",
+          "range": {
+            "0": 86,
+            "1": 86
+          }
+        },
+        "87-87": {
+          "description": "@item[Driftglobe]",
+          "range": {
+            "0": 87,
+            "1": 87
+          }
+        },
+        "88-88": {
+          "description": "@item[Goggles of night]",
+          "range": {
+            "0": 88,
+            "1": 88
+          }
+        },
+        "89-89": {
+          "description": "@item[Helm of comprehending languages]",
+          "range": {
+            "0": 89,
+            "1": 89
+          }
+        },
+        "90-90": {
+          "description": "@item[Immovable rod]",
+          "range": {
+            "0": 90,
+            "1": 90
+          }
+        },
+        "91-91": {
+          "description": "@item[Lantern of revealing]",
+          "range": {
+            "0": 91,
+            "1": 91
+          }
+        },
+        "92-92": {
+          "description": "@item[Mariner's armor]",
+          "range": {
+            "0": 92,
+            "1": 92
+          }
+        },
+        "93-93": {
+          "description": "@item[Mithral armor]",
+          "range": {
+            "0": 93,
+            "1": 93
+          }
+        },
+        "94-94": {
+          "description": "@item[Potion of poison]",
+          "range": {
+            "0": 94,
+            "1": 94
+          }
+        },
+        "95-95": {
+          "description": "@item[Ring of swimming]",
+          "range": {
+            "0": 95,
+            "1": 95
+          }
+        },
+        "96-96": {
+          "description": "@item[Robe of useful items]",
+          "range": {
+            "0": 96,
+            "1": 96
+          }
+        },
+        "97-97": {
+          "description": "@item[Rope of climbing]",
+          "range": {
+            "0": 97,
+            "1": 97
+          }
+        },
+        "98-98": {
+          "description": "@item[Saddle of the cavalier]",
+          "range": {
+            "0": 98,
+            "1": 98
+          }
+        },
+        "99-99": {
+          "description": "@item[Wand of magic detection]",
+          "range": {
+            "0": 99,
+            "1": 99
+          }
+        },
+        "100-100": {
+          "description": "@item[Wand of secrets]",
+          "range": {
+            "0": 100,
+            "1": 100
+          }
+        }
+      }
+    },
+    "MeSDQrRWZuUSEcKA": {
+      "name": "Nightmares; Nightmare Awakening",
+      "description": "<div class=\"ve-muted\"><i>Waking Location</i></div>",
+      "results": {
+        "1-1": {
+          "description": "Standing on a railing on the widow's walk (area 25)",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "In the tub of the master bath (area 17), facing a mirror smeared with blood that repeats the words \"Bloody Mara\" three times",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "Inside an empty cask in the wine cellar (area 27), which is easily mistaken for a coffin from the inside",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "Sprawled on the table in the dining room (area 11), surrounded by illusory diners draped in sheets",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "Seated in the office (area 18) before an illusory, phantom accountant who measures sins and virtues as ghostly coins on a merchant's scale",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "Under the bedcovers in one of the bedrooms (area 14 or 21) while something approaches in the dark",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        }
+      }
+    },
+    "EIp6pNoQmLNubpkO": {
+      "name": "Nighttime Random Encounters in Barovia",
+      "description": "<div class=\"ve-muted\"><i>Encounter</i></div>",
+      "results": {
+        "2-2": {
+          "description": "1 @creature[ghost]",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "Hunting trap",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "Grave",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "Trinket",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "Corpse",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        },
+        "7-7": {
+          "description": "Hidden bundle",
+          "range": {
+            "0": 7,
+            "1": 7
+          }
+        },
+        "8-8": {
+          "description": "Skeletal rider",
+          "range": {
+            "0": 8,
+            "1": 8
+          }
+        },
+        "9-9": {
+          "description": "[[/r 1d8]] @creature[swarm of bats]",
+          "range": {
+            "0": 9,
+            "1": 9
+          }
+        },
+        "10-10": {
+          "description": "[[/r 1d6]] @creature[Dire Wolf||dire wolves]",
+          "range": {
+            "0": 10,
+            "1": 10
+          }
+        },
+        "11-11": {
+          "description": "[[/r 3d6]] @creature[Wolf||wolves]",
+          "range": {
+            "0": 11,
+            "1": 11
+          }
+        },
+        "12-12": {
+          "description": "[[/r 1d4]] @creature[Berserker||berserkers]",
+          "range": {
+            "0": 12,
+            "1": 12
+          }
+        },
+        "13-13": {
+          "description": "1 @creature[druid] and [[/r 2d6]] @creature[Twig Blight||twig blights]",
+          "range": {
+            "0": 13,
+            "1": 13
+          }
+        },
+        "14-14": {
+          "description": "[[/r 2d4]] @creature[Needle Blight||needle blights]",
+          "range": {
+            "0": 14,
+            "1": 14
+          }
+        },
+        "15-15": {
+          "description": "[[/r 1d6]] @creature[Werewolf||werewolves] in wolf form",
+          "range": {
+            "0": 15,
+            "1": 15
+          }
+        },
+        "16-16": {
+          "description": "[[/r 3d6]] @creature[Zombie||zombies]",
+          "range": {
+            "0": 16,
+            "1": 16
+          }
+        },
+        "17-17": {
+          "description": "[[/r 1d6]] @creature[Scarecrow||scarecrows]",
+          "range": {
+            "0": 17,
+            "1": 17
+          }
+        },
+        "18-18": {
+          "description": "[[/r 1d8]] @creature[Strahd Zombie|CoS|Strahd zombies] (see appendix D)",
+          "range": {
+            "0": 18,
+            "1": 18
+          }
+        },
+        "19-19": {
+          "description": "1 @creature[will-o'-wisp]",
+          "range": {
+            "0": 19,
+            "1": 19
+          }
+        },
+        "20-20": {
+          "description": "1 @creature[revenant]",
+          "range": {
+            "0": 20,
+            "1": 20
+          }
+        }
+      }
+    },
+    "hMtudQOTVCSzC6Rk": {
+      "name": "Rahadin",
+      "description": "<div class=\"ve-muted\"><i>Location</i></div>",
+      "results": {
+        "1-1": {
+          "description": "Chapel (area K15)",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "Audience hall (area K25)",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "Study (area K37)",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "Tower roof (area K57)",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "Wine cellar (area K63)",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "Torture chamber (area K76)",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        }
+      }
+    },
+    "aRKhDyXEuj5jp10r": {
+      "name": "Random Encounters in Castle Ravenloft",
+      "description": "<div class=\"ve-muted\"><i>Encounter</i></div>",
+      "results": {
+        "2-2": {
+          "description": "@creature[Ezmerelda d'Avenir|CoS] (see appendix D)",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "@creature[Rahadin|CoS] (see appendix D)",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "1 black @creature[cat]",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "1 @creature[broom of animated attack|CoS] (see appendix D)",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "[[/r 1d4 + 1]] @creature[Flying Sword||flying swords]",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        },
+        "7-7": {
+          "description": "Blinsky toy",
+          "range": {
+            "0": 7,
+            "1": 7
+          }
+        },
+        "8-8": {
+          "description": "@spell[Unseen servant]",
+          "range": {
+            "0": 8,
+            "1": 8
+          }
+        },
+        "9-9": {
+          "description": "[[/r 1d4]] @creature[Barovian Commoner|CoS|commoners]",
+          "range": {
+            "0": 9,
+            "1": 9
+          }
+        },
+        "10-10": {
+          "description": "[[/r 2d6]] @creature[Crawling Claw||crawling claws]",
+          "range": {
+            "0": 10,
+            "1": 10
+          }
+        },
+        "11-11": {
+          "description": "[[/r 1d6]] @creature[Shadow||shadows]",
+          "range": {
+            "0": 11,
+            "1": 11
+          }
+        },
+        "12-12": {
+          "description": "[[/r 1d6]] @creature[Swarm of Bats||swarms of bats]",
+          "range": {
+            "0": 12,
+            "1": 12
+          }
+        },
+        "13-13": {
+          "description": "1 crawling @creature[Strahd zombie|CoS] (see appendix D)",
+          "range": {
+            "0": 13,
+            "1": 13
+          }
+        },
+        "14-14": {
+          "description": "[[/r 1d4 + 1]] Vistani @creature[Vistana Thug|cos|thugs]",
+          "range": {
+            "0": 14,
+            "1": 14
+          }
+        },
+        "15-15": {
+          "description": "[[/r 1d4]] @creature[Wight||wights]",
+          "range": {
+            "0": 15,
+            "1": 15
+          }
+        },
+        "16-16": {
+          "description": "Trinket",
+          "range": {
+            "0": 16,
+            "1": 16
+          }
+        },
+        "17-17": {
+          "description": "Giant spider cocoon",
+          "range": {
+            "0": 17,
+            "1": 17
+          }
+        },
+        "18-18": {
+          "description": "1 @creature[Barovian witch|CoS] (see appendix D)",
+          "range": {
+            "0": 18,
+            "1": 18
+          }
+        },
+        "19-19": {
+          "description": "[[/r 1d4 + 1]] @creature[vampire spawn]",
+          "range": {
+            "0": 19,
+            "1": 19
+          }
+        },
+        "20-20": {
+          "description": "@creature[Strahd von Zarovich|CoS] (see appendix D)",
+          "range": {
+            "0": 20,
+            "1": 20
+          }
+        }
+      }
+    },
+    "XVBiP7t1TU6oYSkC": {
+      "name": "Stars",
+      "description": "<div class=\"ve-muted\"><i>Card | Name | Represents</i></div>",
+      "results": {
+        "1-1": {
+          "description": "Master of stars | @card[Wizard|Tarokka Deck|CoS] | Mystery and riddles; the unknown; those who crave magical power and great knowledge",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "One of stars | @card[Transmuter|Tarokka Deck|CoS] | A new discovery; the coming of unexpected things; unforeseen consequences and chaos",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "Two of stars | @card[Diviner|Tarokka Deck|CoS] | The pursuit of knowledge tempered by wisdom; truth and honesty; sages and prophecy",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "Three of stars | @card[Enchanter|Tarokka Deck|CoS] | Inner turmoil that comes from confusion, fear of failure, or false information",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "Four of stars | @card[Abjurer|Tarokka Deck|CoS] | Those guided by logic and reasoning; warns of an overlooked clue or piece of information",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "Five of stars | @card[Elementalist|Tarokka Deck|CoS] | The triumph of nature over civilization; natural disasters and bountiful harvests",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        },
+        "7-7": {
+          "description": "Six of stars | @card[Evoker|Tarokka Deck|CoS] | Magical or supernatural power that can't be controlled; magic for destructive ends",
+          "range": {
+            "0": 7,
+            "1": 7
+          }
+        },
+        "8-8": {
+          "description": "Seven of stars | @card[Illusionist|Tarokka Deck|CoS] | Lies and deceit; grand conspiracies; secret societies; the presence of a dupe or a saboteur",
+          "range": {
+            "0": 8,
+            "1": 8
+          }
+        },
+        "9-9": {
+          "description": "Eight of stars | @card[Necromancer|Tarokka Deck|CoS] | Unnatural events and unhealthy obsessions; those who follow a destructive path",
+          "range": {
+            "0": 9,
+            "1": 9
+          }
+        },
+        "10-10": {
+          "description": "Nine of stars | @card[Conjurer|Tarokka Deck|CoS] | The coming of an unexpected supernatural threat; those who think of themselves as gods",
+          "range": {
+            "0": 10,
+            "1": 10
+          }
+        }
+      }
+    },
+    "oyOtbnpZHIzpXkUu": {
+      "name": "Strahd von Zarovich; Strahd's Minions",
+      "description": "<div class=\"ve-muted\"><i>Creatures</i></div>",
+      "results": {
+        "1-3": {
+          "description": "[[/r 1d4 + 2]] @creature[Dire Wolf||dire wolves]",
+          "range": {
+            "0": 1,
+            "1": 3
+          }
+        },
+        "4-6": {
+          "description": "[[/r 1d6 + 3]] @creature[Ghoul||ghouls]",
+          "range": {
+            "0": 4,
+            "1": 6
+          }
+        },
+        "7-9": {
+          "description": "[[/r 1d4 + 2]] @creature[Strahd Zombie|CoS|Strahd zombies] (in this appendix)",
+          "range": {
+            "0": 7,
+            "1": 9
+          }
+        },
+        "10-12": {
+          "description": "[[/r 2d4]] @creature[Swarm of Bats||swarms of bats]",
+          "range": {
+            "0": 10,
+            "1": 12
+          }
+        },
+        "13-15": {
+          "description": "[[/r 1d4 + 1]] @creature[Vampire Spawn||vampire spawns]",
+          "range": {
+            "0": 13,
+            "1": 15
+          }
+        },
+        "16-18": {
+          "description": "[[/r 3d6]] @creature[Wolf||wolves]",
+          "range": {
+            "0": 16,
+            "1": 18
+          }
+        },
+        "19-20": {
+          "description": "None",
+          "range": {
+            "0": 19,
+            "1": 20
+          }
+        }
+      }
+    },
+    "daDiwl131xTbFZ00": {
+      "name": "Swords",
+      "description": "<div class=\"ve-muted\"><i>Card | Name | Represents</i></div>",
+      "results": {
+        "1-1": {
+          "description": "Master of swords | @card[Warrior|Tarokka Deck|CoS] | Strength and force personified; violence; those who use force to accomplish their goals",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "One of swords | @card[Avenger|Tarokka Deck|CoS] | Justice and revenge for great wrongs; those on a quest to rid the world of great evil",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "Two of swords | @card[Paladin|Tarokka Deck|CoS] | Just and noble warriors; those who live by a code of honor and integrity",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "Three of swords | @card[Soldier|Tarokka Deck|CoS] | War and sacrifice; the stamina to endure great hardship",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "Four of swords | @card[Mercenary|Tarokka Deck|CoS] | Inner strength and fortitude; those who fight for power or wealth",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "Five of swords | @card[Myrmidon|Tarokka Deck|CoS] | Great heroes; a sudden reversal of fate; the triumph of the underdog over a mighty enemy",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        },
+        "7-7": {
+          "description": "Six of swords | @card[Berserker|Tarokka Deck|CoS] | The brutal and barbaric side of warfare; bloodlust; those with a bestial nature",
+          "range": {
+            "0": 7,
+            "1": 7
+          }
+        },
+        "8-8": {
+          "description": "Seven of swords | @card[Hooded One|Tarokka Deck|CoS] | Bigotry, intolerance, and xenophobia; a mysterious presence or newcomer",
+          "range": {
+            "0": 8,
+            "1": 8
+          }
+        },
+        "9-9": {
+          "description": "Eight of swords | @card[Dictator|Tarokka Deck|CoS] | All that is wrong with government and leadership; those who rule through fear and violence",
+          "range": {
+            "0": 9,
+            "1": 9
+          }
+        },
+        "10-10": {
+          "description": "Nine of swords | @card[Torturer|Tarokka Deck|CoS] | The coming of suffering or merciless cruelty; one who is irredeemably evil or sadistic",
+          "range": {
+            "0": 10,
+            "1": 10
+          }
+        }
+      }
+    },
+    "VNjikl2wSEksJRwU": {
+      "name": "The Order of the Silver Dragon",
+      "description": "<div class=\"ve-muted\"><i>Corpse Location</i></div>",
+      "results": {
+        "1-4": {
+          "description": "Village of Barovia cemetery (ch. 3, area E6)",
+          "range": {
+            "0": 1,
+            "1": 4
+          }
+        },
+        "5-11": {
+          "description": "Church graveyard in Vallaki (ch. 5, area N1)",
+          "range": {
+            "0": 5,
+            "1": 11
+          }
+        },
+        "12-12": {
+          "description": "Argynvostholt cemetery (area Q15)",
+          "range": {
+            "0": 12,
+            "1": 12
+          }
+        },
+        "13-13": {
+          "description": "Grave in the village of Krezk (ch. 8, area S3)",
+          "range": {
+            "0": 13,
+            "1": 13
+          }
+        },
+        "14-14": {
+          "description": "Grave in the Berez cemetery (ch. 10, area U4)",
+          "range": {
+            "0": 14,
+            "1": 14
+          }
+        },
+        "15-16": {
+          "description": "Grave in the Svalich Woods (ch. 2, \"Random Encounters\")",
+          "range": {
+            "0": 15,
+            "1": 16
+          }
+        },
+        "17-20": {
+          "description": "Corpse of one deceased player character or NPC, wherever it happens to be",
+          "range": {
+            "0": 17,
+            "1": 20
+          }
+        }
+      }
+    },
+    "OOfhUH2i5MWDPQ7N": {
+      "name": "Treasure",
+      "description": "<div class=\"ve-muted\"><i>Treasure</i></div>",
+      "results": {
+        "1-10": {
+          "description": "None",
+          "range": {
+            "0": 1,
+            "1": 10
+          }
+        },
+        "11-13": {
+          "description": "Sack of 100 ep (each coin stamped with Strahd's visage in profile)",
+          "range": {
+            "0": 11,
+            "1": 13
+          }
+        },
+        "14-16": {
+          "description": "Pouch containing [[/r 4d6]] gemstones worth 100 gp each",
+          "range": {
+            "0": 14,
+            "1": 16
+          }
+        },
+        "17-19": {
+          "description": "Sack containing [[/r 3d6]] pieces of cheap jewelry worth 25 gp total and [[/r 1d6]] pieces of fine jewelry worth 250 gp each",
+          "range": {
+            "0": 17,
+            "1": 19
+          }
+        },
+        "20-20": {
+          "description": "One magic item (roll once on @table[Magic Item Table B] in the Dungeon Master's Guide)",
+          "range": {
+            "0": 20,
+            "1": 20
+          }
+        }
+      }
+    },
+    "VANokGWnZ9a0giUB": {
+      "name": "Treasure",
+      "description": "<div class=\"ve-muted\"><i>Book</i></div>",
+      "results": {
+        "1-1": {
+          "description": "Alchemist's tome",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "Bestiary of strange beasts",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "Biography of a forgotten king or queen",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "Book of exotic recipes",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "Book of heraldry",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "Book of military strategy",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        },
+        "7-7": {
+          "description": "Epic novel",
+          "range": {
+            "0": 7,
+            "1": 7
+          }
+        },
+        "8-8": {
+          "description": "Guide to fine wines",
+          "range": {
+            "0": 8,
+            "1": 8
+          }
+        },
+        "9-9": {
+          "description": "Heretical text",
+          "range": {
+            "0": 9,
+            "1": 9
+          }
+        },
+        "10-10": {
+          "description": "Historical text",
+          "range": {
+            "0": 10,
+            "1": 10
+          }
+        },
+        "11-11": {
+          "description": "Poetry anthology",
+          "range": {
+            "0": 11,
+            "1": 11
+          }
+        },
+        "12-12": {
+          "description": "Theological text",
+          "range": {
+            "0": 12,
+            "1": 12
+          }
+        }
+      }
+    },
+    "enUhKWe5ACPPspg7": {
+      "name": "Unseen Servant",
+      "description": "<div class=\"ve-muted\"><i>Items</i></div>",
+      "results": {
+        "1-1": {
+          "description": "A tarnished silver platter with a lid (worth 25 gp). If a character comes within 5 feet of the servant, it lifts the lid, revealing a bunch of moldy scones. The first character to eat a scone gains inspiration. On later occurrences of this encounter, the platter holds a @creature[crawling claw] that attacks the nearest character.",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "A silver goblet (worth 50 gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking 44 ([[/r 8d10]]) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a @item[potion of healing].",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "A gold candelabrum (worth 150 gp) with three branches, each one holding an unlit candle.",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "A purple silk handkerchief with white ruffled edges (worth 1 gp). On future occurrences of this encounter, the handkerchief is smeared with fresh blood.",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "A crystal dinner bell (worth 25 gp). The unseen servant rings the bell if the characters come within 10 feet of it. The sound attracts [[/r 1d4]] hungry @creature[vampire spawn] (see below), which arrive in [[/r 1d4 + 1]] rounds.",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "A wizard's spellbook with a black velvet dust jacket over its stitched leather cover. The book contains all the spells Strahd has prepared (see appendix D). On subsequent occurrences of this encounter, the tome is a nonmagical leather-bound storybook worth 25 gp.",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        }
+      }
+    },
+    "IGg2xuRwuTpm2H62": {
+      "name": "Using Regular Playing Cards",
+      "description": "<div class=\"ve-muted\"><i>Playing Card | Tarokka Card</i></div>",
+      "results": {
+        "1-1": {
+          "description": "King of hearts | @card[Ghost|Tarokka Deck|CoS]",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "Queen of hearts | @card[Innocent|Tarokka Deck|CoS]",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "Jack of hearts | @card[Marionette|Tarokka Deck|CoS]",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "King of spades | @card[Darklord|Tarokka Deck|CoS]",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "Queen of spades | @card[Mists|Tarokka Deck|CoS]",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "Jack of spades | @card[Executioner|Tarokka Deck|CoS]",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        },
+        "7-7": {
+          "description": "King of diamonds | @card[Broken One|Tarokka Deck|CoS]",
+          "range": {
+            "0": 7,
+            "1": 7
+          }
+        },
+        "8-8": {
+          "description": "Queen of diamonds | @card[Tempter|Tarokka Deck|CoS]",
+          "range": {
+            "0": 8,
+            "1": 8
+          }
+        },
+        "9-9": {
+          "description": "Jack of diamonds | @card[Beast|Tarokka Deck|CoS]",
+          "range": {
+            "0": 9,
+            "1": 9
+          }
+        },
+        "10-10": {
+          "description": "King of clubs | @card[Donjon|Tarokka Deck|CoS]",
+          "range": {
+            "0": 10,
+            "1": 10
+          }
+        },
+        "11-11": {
+          "description": "Queen of clubs | @card[Raven|Tarokka Deck|CoS]",
+          "range": {
+            "0": 11,
+            "1": 11
+          }
+        },
+        "12-12": {
+          "description": "Jack of clubs | @card[Seer|Tarokka Deck|CoS]",
+          "range": {
+            "0": 12,
+            "1": 12
+          }
+        },
+        "13-13": {
+          "description": "Joker 1 | @card[Artifact|Tarokka Deck|CoS]",
+          "range": {
+            "0": 13,
+            "1": 13
+          }
+        },
+        "14-14": {
+          "description": "Joker 2 | @card[Horseman|Tarokka Deck|CoS]",
+          "range": {
+            "0": 14,
+            "1": 14
+          }
+        }
+      }
+    },
+    "5c7GFzHCmQgIQmek": {
+      "name": "H2: Fiend Feud; Fiend Feud Questions",
+      "description": "<div class=\"ve-muted\"><i>Question | Answer</i></div>",
+      "results": {
+        "1-1": {
+          "description": "What vile lich is missing one eye and one hand? | Vecna",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "What creatures love brains but loathe zombies? | Mind flayers",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "Which vampire lord rules over the land of Barovia? | Count Strahd von Zarovich",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "Which demon lord is the self-styled Prince of Demons? | Demogorgon",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "Which warrior severed the hand of a famous lich? | Kas",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "Which archdevil rules over all the Nine Hells? | Asmodeus",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        }
+      }
+    },
+    "qTgkuKFPliZelf1Y": {
+      "name": "Hide-and-Seek; Flizzlebin's Hiding Spot",
+      "description": "<div class=\"ve-muted\"><i>Location</i></div>",
+      "results": {
+        "1-1": {
+          "description": "Chamber of Bad Choices (area S1)",
+          "range": {
+            "0": 1,
+            "1": 1
+          }
+        },
+        "2-2": {
+          "description": "Wasteland of Filthy Vines (area S2)",
+          "range": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "3-3": {
+          "description": "Labyrinth of Gloom (area S3)",
+          "range": {
+            "0": 3,
+            "1": 3
+          }
+        },
+        "4-4": {
+          "description": "Forge of Annihilation (area S4)",
+          "range": {
+            "0": 4,
+            "1": 4
+          }
+        },
+        "5-5": {
+          "description": "Den of Bitsy (area S5)",
+          "range": {
+            "0": 5,
+            "1": 5
+          }
+        },
+        "6-6": {
+          "description": "Altar of Vecna (area S6)",
+          "range": {
+            "0": 6,
+            "1": 6
+          }
+        }
+      }
+    }
+  },
+  "_meta": {
+    "generatedBy": "plutonium-babele-postimport-exporter",
+    "generatedAt": "2026-04-14T10:50:49.731Z",
+    "source": {
+      "mode": "world",
+      "id": "dandd",
+      "folderId": null
+    },
+    "type": "RollTable",
+    "entryCount": 32
+  }
+}

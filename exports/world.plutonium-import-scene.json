@@ -1,0 +1,2649 @@
+{
+  "label": "D&D: Scene",
+  "mapping": {
+    "name": "name",
+    "notes": {
+      "path": "notes",
+      "converter": "textCollection"
+    },
+    "deltaTokens": {
+      "path": "tokens",
+      "converter": "pbpeDeltaTokens"
+    }
+  },
+  "entries": {
+    "5WvFLfLgIzeHaevI": {
+      "name": "Court of the Count (Battlemap; DM Version)",
+      "notes": {
+        "K12. Turret Post": "K12. Turret Post",
+        "K22. North Archers' Post": "K22. North Archers' Post",
+        "K13. Turret Post Access Hall": "K13. Turret Post Access Hall",
+        "K33. King's Apartment Stair": "K33. King's Apartment Stair",
+        "K32. Maid in Hell": "K32. Maid in Hell",
+        "K83. Spiral Stair": "K83. Spiral Stair",
+        "K26. Guards' Post": "K26. Guards' Post",
+        "K25. Audience Hall": "K25. Audience Hall",
+        "K64. Guards' Stair": "K64. Guards' Stair",
+        "K30. King's Accountant": "K30. King's Accountant",
+        "K31a. Elevator Shaft": "K31a. Elevator Shaft",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K31. Trapworks": "K31. Trapworks",
+        "K28. King's Balcony": "K28. King's Balcony",
+        "K27. King's Hall": "K27. King's Hall",
+        "K29. Creaky Landing": "K29. Creaky Landing",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K34. Servants' Upper Floor": "K34. Servants' Upper Floor"
+      }
+    },
+    "tCeHGuBMKmaqlYy3": {
+      "name": "Court of the Count (Battlemap; Player Version)",
+      "notes": {
+        "K12. Turret Post": "K12. Turret Post",
+        "K22. North Archers' Post": "K22. North Archers' Post",
+        "K13. Turret Post Access Hall": "K13. Turret Post Access Hall",
+        "K32. Maid in Hell": "K32. Maid in Hell",
+        "K33. King's Apartment Stair": "K33. King's Apartment Stair",
+        "K83. Spiral Stair": "K83. Spiral Stair",
+        "K26. Guards' Post": "K26. Guards' Post",
+        "K25. Audience Hall": "K25. Audience Hall",
+        "K64. Guards' Stair": "K64. Guards' Stair",
+        "K30. King's Accountant": "K30. King's Accountant",
+        "K31a. Elevator Shaft": "K31a. Elevator Shaft",
+        "K31. Trapworks": "K31. Trapworks",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K28. King's Balcony": "K28. King's Balcony",
+        "K29. Creaky Landing": "K29. Creaky Landing",
+        "K27. King's Hall": "K27. King's Hall",
+        "K34. Servants' Upper Floor": "K34. Servants' Upper Floor",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow"
+      }
+    },
+    "n1eQ6kAzWy82I9fj": {
+      "name": "Dungeon and Catacombs (Battlemap; DM Version)",
+      "notes": {
+        "K79. Western Stair": "K79. Western Stair",
+        "K77. Observation Balcony": "K77. Observation Balcony",
+        "K78. Brazier Room": "K78. Brazier Room",
+        "K81. Tunnel": "K81. Tunnel",
+        "K80. Center Stair": "K80. Center Stair",
+        "K74. North Dungeon": "K74. North Dungeon",
+        "K83a. Spiral Stair Landing": "K83a. Spiral Stair Landing",
+        "K73. Dungeon Hall": "K73. Dungeon Hall",
+        "K76. Torture Chamber": "K76. Torture Chamber",
+        "K75. South Dungeon": "K75. South Dungeon",
+        "Crypt 24": "Crypt 24",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "Crypt 35": "Crypt 35",
+        "Crypt 12": "Crypt 12",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K86. Strahd's Tomb": "K86. Strahd's Tomb",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K85. Sergei's Tomb": "K85. Sergei's Tomb",
+        "K87. Guardians": "K87. Guardians",
+        "K88. Tomb of King Barov and Queen Ravenovia": "K88. Tomb of King Barov and Queen Ravenovia",
+        "K82. Marble Slide": "K82. Marble Slide",
+        "Crypt 1": "Crypt 1",
+        "Crypt 2": "Crypt 2",
+        "Crypt 3": "Crypt 3",
+        "Crypt 4": "Crypt 4",
+        "Crypt 6": "Crypt 6",
+        "Crypt 8": "Crypt 8",
+        "Crypt 7": "Crypt 7",
+        "Crypt 5": "Crypt 5",
+        "Crypt 9": "Crypt 9",
+        "Crypt 10": "Crypt 10",
+        "Crypt 11": "Crypt 11",
+        "Crypt 13": "Crypt 13",
+        "Crypt 14": "Crypt 14",
+        "Crypt 15": "Crypt 15",
+        "Crypt 16": "Crypt 16",
+        "Crypt 17": "Crypt 17",
+        "Crypt 19": "Crypt 19",
+        "Crypt 18": "Crypt 18",
+        "Crypt 20": "Crypt 20",
+        "Crypt 22": "Crypt 22",
+        "Crypt 23": "Crypt 23",
+        "Crypt 21": "Crypt 21",
+        "Crypt 26": "Crypt 26",
+        "Crypt 25": "Crypt 25",
+        "Crypt 27": "Crypt 27",
+        "Crypt 30": "Crypt 30",
+        "Crypt 28": "Crypt 28",
+        "Crypt 32": "Crypt 32",
+        "Crypt 31": "Crypt 31",
+        "Treasure": "Treasure",
+        "Crypt 33": "Crypt 33",
+        "Crypt 34": "Crypt 34",
+        "Crypt 37": "Crypt 37",
+        "Crypt 39": "Crypt 39",
+        "Crypt 40": "Crypt 40",
+        "Crypt 38": "Crypt 38",
+        "Crypt 36": "Crypt 36"
+      },
+      "deltaTokens": {
+        "Vampire": {
+          "items": {
+            "Legendary Resistance": {
+              "name": "Legendary Resistance",
+              "description": "<p>If the [[lookup @name lowercase]] fails a saving throw, it can choose to succeed instead.</p>",
+              "activities": {
+                "Expend Use": {
+                  "name": "Expend Use",
+                  "condition": "fails a saving throw"
+                }
+              }
+            },
+            "Misty Escape": {
+              "name": "Misty Escape",
+              "description": "<p class=\"feature\">If the [[lookup @name lowercase]] drops to 0 Hit Points outside its resting place, the [[lookup @name lowercase]] uses Shape-Shift to become mist (no action required). If it can't use Shape-Shift, it is destroyed.</p><p class=\"feature\">While it has 0 Hit Points in mist form, it can't return to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it returns to its vampire form and has the &amp;Reference[Paralyzed apply=false] condition until it regains any Hit Points, and it regains 1 Hit Point after spending 1 hour there.</p>",
+              "activities": {
+                "Paralyzed": {
+                  "name": "Paralyzed"
+                }
+              },
+              "effects": {
+                "Paralyzed": {
+                  "name": "Paralyzed",
+                  "description": "<p>Once in its resting place, it returns to its vampire form and has the &amp;Reference[Paralyzed apply=false] condition until it regains any Hit Points, and it regains 1 Hit Point after spending 1 hour there.</p>"
+                }
+              }
+            },
+            "Spider Climb": {
+              "name": "Spider Climb",
+              "description": "<p>The [[lookup @name lowercase]] can climb difficult surfaces, including along ceilings, without needing to make an ability check.</p>"
+            },
+            "Multiattack (Vampire Form Only)": {
+              "name": "Multiattack (Vampire Form Only)",
+              "description": "<p>The [[lookup @name lowercase]] makes two [[/item .mmGraveStrike000]]{Grave Strike} attacks and uses [[/item .mmBite0000000000]]{Bite}.</p>",
+              "activities": {
+                "Use": {
+                  "name": "Use"
+                }
+              }
+            },
+            "Charm": {
+              "name": "Charm",
+              "description": "<p>The [[lookup @name lowercase]] casts <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCharmPerso]</em>, requiring no spell components and using Charisma as the spellcasting ability (spell save DC [[lookup @abilities.cha.dc]]), and the duration is [[lookup @duration.value activity=fcRXSTOlFJShCl52]] hours. The &amp;Reference[Charmed apply=false] target is a willing recipient of the [[lookup @name lowercase]]'s [[/item .mmBite0000000000]]{Bite}, the damage of which doesn't end the spell. When the spell ends, the target is unaware it was Charmed by the [[lookup @name lowercase]].</p>"
+            },
+            "Shape-Shift": {
+              "name": "Shape-Shift",
+              "description": "<p class=\"feature\">If the [[lookup @name lowercase]] isn't in sunlight or running water, it shape-shifts into a Tiny @UUID[Compendium.dnd5e.actors24.Actor.mmBat00000000000]{bat} (Speed 5 ft., Fly Speed 30 ft.) or a Medium cloud of mist (Speed 5 ft., Fly Speed 20 ft. [hover]), or it returns to its vampire form. Anything it is wearing transforms with it.</p><p class=\"feature\">While in bat form, the [[lookup @name lowercase]] can't speak. Its game statistics, other than its size and Speed, are unchanged.</p><p class=\"feature\">While in mist form, the [[lookup @name lowercase]] can't take any actions, speak, or manipulate objects. It is weightless and can enter an enemy's space and stop there. If air can pass through a space, the mist can do so, but it can't pass through liquid. It has Resistance to all damage, except the damage it takes from sunlight.</p>",
+              "activities": {
+                "Transform Into Bat": {
+                  "name": "Transform Into Bat"
+                }
+              }
+            },
+            "Beguile": {
+              "name": "Beguile",
+              "description": "<p>The [[lookup @name lowercase]] casts <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCommand000]</em>, requiring no spell components and using Charisma as the spellcasting ability (spell save DC [[lookup @abilities.cha.dc]]). The [[lookup @name lowercase]] can't take this action again until the start of its next turn.</p>"
+            },
+            "Deathless Strike": {
+              "name": "Deathless Strike",
+              "description": "<p class=\"feature\">The [[lookup @name lowercase]] moves up to half its Speed, and it makes one [[/item .mmGraveStrike000]]{Grave Strike} attack.</p>",
+              "activities": {
+                "Expend Use": {
+                  "name": "Expend Use"
+                }
+              }
+            },
+            "Vampire Weakness": {
+              "name": "Vampire Weakness",
+              "description": "<p class=\"feature\">The [[lookup @name lowercase]] has these weaknesses:</p><p class=\"feature-trait\"><strong>Forbiddance.</strong> The [[lookup @name lowercase]] can't enter a residence without an invitation from an occupant.</p><p class=\"feature-trait\"><strong>Running Water.</strong> The [[lookup @name lowercase]] takes 20 Acid damage if it ends its turn in running water.</p><p class=\"feature-trait\"><strong>Stake to the Heart.</strong> The [[lookup @name lowercase]] is destroyed if a weapon that deals Piercing damage is driven into the [[lookup @name lowercase]]'s heart while the [[lookup @name lowercase]] has the Incapacitated condition.</p><p class=\"feature-trait\"><strong>Sunlight.</strong> The [[lookup @name lowercase]] takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.</p>",
+              "activities": {
+                "Damage: Running Water": {
+                  "name": "Damage: Running Water",
+                  "chatFlavor": "Damage from Running Water"
+                },
+                "Damage: Sunlight": {
+                  "name": "Damage: Sunlight",
+                  "chatFlavor": "Damage from Sunligvht"
+                },
+                "Staked to the Heart": {
+                  "name": "Staked to the Heart"
+                }
+              },
+              "effects": {
+                "Disadv. Attacks & Checks": {
+                  "name": "Disadv. Attacks & Checks",
+                  "description": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">While in sunlight, it has Disadvantage on attack rolls and ability checks.</span></p>"
+                }
+              }
+            }
+          },
+          "name": "Vampire"
+        },
+        "Egrath Stoneheart": {
+          "name": "Egrath Stoneheart"
+        },
+        "Yeleena Kolyana": {
+          "name": "Yeleena Kolyana"
+        },
+        "Théodhore Katsky": {
+          "name": "Théodhore Katsky"
+        },
+        "Seraphine": {
+          "name": "Seraphine"
+        },
+        "Vampire Spawn": {
+          "items": {
+            "Spider Climb": {
+              "name": "Spider Climb",
+              "description": "<p>The [[lookup @name lowercase]] can climb difficult surfaces, including along ceilings, without needing to make an ability check.</p>"
+            },
+            "Multiattack": {
+              "name": "Multiattack",
+              "description": "<p>The [[lookup @name lowercase]] makes two [[/item .mmClaw0000000000]] attacks and uses [[/item .mmBite0000000000]].</p>",
+              "activities": {
+                "Use": {
+                  "name": "Use"
+                }
+              }
+            },
+            "Deathless Agility": {
+              "name": "Deathless Agility",
+              "description": "<p class=\"feature\">The [[lookup @name lowercase]] takes the &amp;Reference[Dash] or &amp;Reference[Disengage] action.</p>",
+              "activities": {
+                "Expend Use": {
+                  "name": "Expend Use"
+                }
+              }
+            },
+            "Vampire Weakness": {
+              "name": "Vampire Weakness",
+              "description": "<p class=\"feature\">The [[lookup @name lowercase]] has these weaknesses:</p><p class=\"feature-trait\"><strong>Forbiddance.</strong> The [[lookup @name lowercase]] can't enter a residence without an invitation from an occupant.</p><p class=\"feature-trait\"><strong>Running Water.</strong> The [[lookup @name lowercase]] takes 20 Acid damage if it ends its turn in running water.</p><p class=\"feature-trait\"><strong>Stake to the Heart.</strong> The [[lookup @name lowercase]] is destroyed if a weapon that deals Piercing damage is driven into the [[lookup @name lowercase]]'s heart while the [[lookup @name lowercase]] has the Incapacitated condition.</p><p class=\"feature-trait\"><strong>Sunlight.</strong> The [[lookup @name lowercase]] takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.</p>",
+              "activities": {
+                "Damage: Running Water": {
+                  "name": "Damage: Running Water",
+                  "chatFlavor": "Damage from Running Water"
+                },
+                "Damage: Sunlight": {
+                  "name": "Damage: Sunlight",
+                  "chatFlavor": "Damage from Sunligvht"
+                },
+                "Staked to the Heart": {
+                  "name": "Staked to the Heart"
+                }
+              },
+              "effects": {
+                "Disadv. Attacks & Checks": {
+                  "name": "Disadv. Attacks & Checks",
+                  "description": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">While in sunlight, it has Disadvantage on attack rolls and ability checks.</span></p>"
+                }
+              }
+            }
+          },
+          "name": "Vampire Spawn"
+        },
+        "Banshee": {
+          "items": {
+            "Deathly Wail": {
+              "name": "Deathly Wail",
+              "description": "<div class=\"rd__b  rd__b--3\"><p>The banshee releases a mournful wail if it isn't in sunlight. <i>Constitution Saving Throw:</i> DC <span class=\"rd__dc\">13</span>, each creature within 30 feet that can hear the wail and isn't a Construct or an Undead. <i>Failure:</i> If the target has 25 @variantrule[Hit Points|XPHB] or fewer, it drops to 0 @variantrule[Hit Points|XPHB]. Otherwise, the target takes 10 ([[/damage 3d6 type=psychic]]) damage.</p></div>"
+            },
+            "Multiattack": {
+              "name": "Multiattack",
+              "description": "<div class=\"rd__b  rd__b--3\"><p>The banshee makes two Corrupting Touch attacks and uses Horrify.</p></div>"
+            },
+            "Horrify": {
+              "name": "Horrify",
+              "description": "<div class=\"rd__b  rd__b--3\"><p><i>Wisdom Saving Throw:</i> DC <span class=\"rd__dc\">13</span>, one creature the banshee can see within 60 feet that can see the banshee. <i>Failure:</i> The target has the &amp;Reference[condition=Frightened] condition until the start of the banshee's next turn. <i>Success:</i> The target is immune to this banshee's Horrify for 24 hours.</p></div>"
+            },
+            "Detect Life": {
+              "name": "Detect Life",
+              "description": "<div class=\"rd__b  rd__b--3\"><p>The banshee magically senses the direction of creatures up to 1 mile away that aren't Constructs or Undead.</p></div>"
+            },
+            "Incorporeal Movement": {
+              "name": "Incorporeal Movement",
+              "description": "<div class=\"rd__b  rd__b--3\"><p>The banshee can move through other creatures and objects as if they were @variantrule[Difficult Terrain|XPHB]. It takes 5 ([[/damage 1d10 type=force]]) damage if it ends its turn inside an object.</p></div>"
+            }
+          },
+          "name": "Banshee"
+        }
+      }
+    },
+    "Rda52Mp5I2hNIlfb": {
+      "name": "Dungeon and Catacombs (Battlemap; Player Version)",
+      "notes": {
+        "K77. Observation Balcony": "K77. Observation Balcony",
+        "K79. Western Stair": "K79. Western Stair",
+        "K78. Brazier Room": "K78. Brazier Room",
+        "K82. Marble Slide": "K82. Marble Slide",
+        "K81. Tunnel": "K81. Tunnel",
+        "K74. North Dungeon": "K74. North Dungeon",
+        "K80. Center Stair": "K80. Center Stair",
+        "K83a. Spiral Stair Landing": "K83a. Spiral Stair Landing",
+        "K76. Torture Chamber": "K76. Torture Chamber",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K73. Dungeon Hall": "K73. Dungeon Hall",
+        "K75. South Dungeon": "K75. South Dungeon",
+        "Crypt 24": "Crypt 24",
+        "Crypt 35": "Crypt 35",
+        "K86. Strahd's Tomb": "K86. Strahd's Tomb",
+        "Crypt 12": "Crypt 12",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K87. Guardians": "K87. Guardians",
+        "Crypt 1": "Crypt 1",
+        "K88. Tomb of King Barov and Queen Ravenovia": "K88. Tomb of King Barov and Queen Ravenovia",
+        "Crypt 2": "Crypt 2",
+        "Crypt 3": "Crypt 3",
+        "Crypt 5": "Crypt 5",
+        "Crypt 4": "Crypt 4",
+        "Crypt 7": "Crypt 7",
+        "Crypt 6": "Crypt 6",
+        "Crypt 9": "Crypt 9",
+        "Crypt 10": "Crypt 10",
+        "Crypt 11": "Crypt 11",
+        "Crypt 13": "Crypt 13",
+        "Crypt 14": "Crypt 14",
+        "Crypt 15": "Crypt 15",
+        "Crypt 16": "Crypt 16",
+        "Crypt 17": "Crypt 17",
+        "Crypt 18": "Crypt 18",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "Crypt 20": "Crypt 20",
+        "K85. Sergei's Tomb": "K85. Sergei's Tomb",
+        "Crypt 21": "Crypt 21",
+        "Crypt 22": "Crypt 22",
+        "Crypt 23": "Crypt 23",
+        "Crypt 25": "Crypt 25",
+        "Crypt 26": "Crypt 26",
+        "Crypt 19": "Crypt 19",
+        "Crypt 27": "Crypt 27",
+        "Treasure": "Treasure",
+        "Crypt 28": "Crypt 28",
+        "Crypt 8": "Crypt 8",
+        "Crypt 30": "Crypt 30",
+        "Crypt 32": "Crypt 32",
+        "Crypt 31": "Crypt 31",
+        "Crypt 33": "Crypt 33",
+        "Crypt 34": "Crypt 34",
+        "Crypt 36": "Crypt 36",
+        "Crypt 37": "Crypt 37",
+        "Crypt 40": "Crypt 40",
+        "Crypt 38": "Crypt 38",
+        "Crypt 39": "Crypt 39"
+      },
+      "deltaTokens": {
+        "Vampire": {
+          "items": {
+            "Legendary Resistance": {
+              "name": "Legendary Resistance",
+              "description": "<p>If the [[lookup @name lowercase]] fails a saving throw, it can choose to succeed instead.</p>",
+              "activities": {
+                "Expend Use": {
+                  "name": "Expend Use",
+                  "condition": "fails a saving throw"
+                }
+              }
+            },
+            "Misty Escape": {
+              "name": "Misty Escape",
+              "description": "<p class=\"feature\">If the [[lookup @name lowercase]] drops to 0 Hit Points outside its resting place, the [[lookup @name lowercase]] uses Shape-Shift to become mist (no action required). If it can't use Shape-Shift, it is destroyed.</p><p class=\"feature\">While it has 0 Hit Points in mist form, it can't return to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it returns to its vampire form and has the &amp;Reference[Paralyzed apply=false] condition until it regains any Hit Points, and it regains 1 Hit Point after spending 1 hour there.</p>",
+              "activities": {
+                "Paralyzed": {
+                  "name": "Paralyzed"
+                }
+              },
+              "effects": {
+                "Paralyzed": {
+                  "name": "Paralyzed",
+                  "description": "<p>Once in its resting place, it returns to its vampire form and has the &amp;Reference[Paralyzed apply=false] condition until it regains any Hit Points, and it regains 1 Hit Point after spending 1 hour there.</p>"
+                }
+              }
+            },
+            "Spider Climb": {
+              "name": "Spider Climb",
+              "description": "<p>The [[lookup @name lowercase]] can climb difficult surfaces, including along ceilings, without needing to make an ability check.</p>"
+            },
+            "Multiattack (Vampire Form Only)": {
+              "name": "Multiattack (Vampire Form Only)",
+              "description": "<p>The [[lookup @name lowercase]] makes two [[/item .mmGraveStrike000]]{Grave Strike} attacks and uses [[/item .mmBite0000000000]]{Bite}.</p>",
+              "activities": {
+                "Use": {
+                  "name": "Use"
+                }
+              }
+            },
+            "Charm": {
+              "name": "Charm",
+              "description": "<p>The [[lookup @name lowercase]] casts <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCharmPerso]</em>, requiring no spell components and using Charisma as the spellcasting ability (spell save DC [[lookup @abilities.cha.dc]]), and the duration is [[lookup @duration.value activity=fcRXSTOlFJShCl52]] hours. The &amp;Reference[Charmed apply=false] target is a willing recipient of the [[lookup @name lowercase]]'s [[/item .mmBite0000000000]]{Bite}, the damage of which doesn't end the spell. When the spell ends, the target is unaware it was Charmed by the [[lookup @name lowercase]].</p>"
+            },
+            "Shape-Shift": {
+              "name": "Shape-Shift",
+              "description": "<p class=\"feature\">If the [[lookup @name lowercase]] isn't in sunlight or running water, it shape-shifts into a Tiny @UUID[Compendium.dnd5e.actors24.Actor.mmBat00000000000]{bat} (Speed 5 ft., Fly Speed 30 ft.) or a Medium cloud of mist (Speed 5 ft., Fly Speed 20 ft. [hover]), or it returns to its vampire form. Anything it is wearing transforms with it.</p><p class=\"feature\">While in bat form, the [[lookup @name lowercase]] can't speak. Its game statistics, other than its size and Speed, are unchanged.</p><p class=\"feature\">While in mist form, the [[lookup @name lowercase]] can't take any actions, speak, or manipulate objects. It is weightless and can enter an enemy's space and stop there. If air can pass through a space, the mist can do so, but it can't pass through liquid. It has Resistance to all damage, except the damage it takes from sunlight.</p>",
+              "activities": {
+                "Transform Into Bat": {
+                  "name": "Transform Into Bat"
+                }
+              }
+            },
+            "Beguile": {
+              "name": "Beguile",
+              "description": "<p>The [[lookup @name lowercase]] casts <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCommand000]</em>, requiring no spell components and using Charisma as the spellcasting ability (spell save DC [[lookup @abilities.cha.dc]]). The [[lookup @name lowercase]] can't take this action again until the start of its next turn.</p>"
+            },
+            "Deathless Strike": {
+              "name": "Deathless Strike",
+              "description": "<p class=\"feature\">The [[lookup @name lowercase]] moves up to half its Speed, and it makes one [[/item .mmGraveStrike000]]{Grave Strike} attack.</p>",
+              "activities": {
+                "Expend Use": {
+                  "name": "Expend Use"
+                }
+              }
+            },
+            "Vampire Weakness": {
+              "name": "Vampire Weakness",
+              "description": "<p class=\"feature\">The [[lookup @name lowercase]] has these weaknesses:</p><p class=\"feature-trait\"><strong>Forbiddance.</strong> The [[lookup @name lowercase]] can't enter a residence without an invitation from an occupant.</p><p class=\"feature-trait\"><strong>Running Water.</strong> The [[lookup @name lowercase]] takes 20 Acid damage if it ends its turn in running water.</p><p class=\"feature-trait\"><strong>Stake to the Heart.</strong> The [[lookup @name lowercase]] is destroyed if a weapon that deals Piercing damage is driven into the [[lookup @name lowercase]]'s heart while the [[lookup @name lowercase]] has the Incapacitated condition.</p><p class=\"feature-trait\"><strong>Sunlight.</strong> The [[lookup @name lowercase]] takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.</p>",
+              "activities": {
+                "Damage: Running Water": {
+                  "name": "Damage: Running Water",
+                  "chatFlavor": "Damage from Running Water"
+                },
+                "Damage: Sunlight": {
+                  "name": "Damage: Sunlight",
+                  "chatFlavor": "Damage from Sunligvht"
+                },
+                "Staked to the Heart": {
+                  "name": "Staked to the Heart"
+                }
+              },
+              "effects": {
+                "Disadv. Attacks & Checks": {
+                  "name": "Disadv. Attacks & Checks",
+                  "description": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">While in sunlight, it has Disadvantage on attack rolls and ability checks.</span></p>"
+                }
+              }
+            }
+          },
+          "name": "Vampire"
+        },
+        "Egrath Stoneheart": {
+          "name": "Egrath Stoneheart"
+        },
+        "Yeleena Kolyana": {
+          "name": "Yeleena Kolyana"
+        }
+      }
+    },
+    "jHHcIcAp3t2LOV0M": {
+      "name": "Larders of Ill Omen (Battlemap; DM Version)",
+      "notes": {
+        "K79. Western Stair": "K79. Western Stair",
+        "K70. Kingsmen Hall": "K70. Kingsmen Hall",
+        "K72. Chamberlain's Office": "K72. Chamberlain's Office",
+        "K71. Kingsmen Quarters": "K71. Kingsmen Quarters",
+        "K83a. Spiral Stair Landing": "K83a. Spiral Stair Landing",
+        "K67. Hall of Bones": "K67. Hall of Bones",
+        "K66. Butler's Quarters": "K66. Butler's Quarters",
+        "K68. Guards' Run": "K68. Guards' Run",
+        "K69. Guards' Quarters": "K69. Guards' Quarters",
+        "K64. Guards' Stair": "K64. Guards' Stair",
+        "K61. Elevator Trap": "K61. Elevator Trap",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K63. Wine Cellar": "K63. Wine Cellar",
+        "K62. Servants' Hall": "K62. Servants' Hall",
+        "K65. Kitchen": "K65. Kitchen"
+      }
+    },
+    "KuwfRMHntFwk2GOV": {
+      "name": "Larders of Ill Omen (Battlemap; Player Version)",
+      "notes": {
+        "K79. Western Stair": "K79. Western Stair",
+        "K72. Chamberlain's Office": "K72. Chamberlain's Office",
+        "K67. Hall of Bones": "K67. Hall of Bones",
+        "K66. Butler's Quarters": "K66. Butler's Quarters",
+        "K71. Kingsmen Quarters": "K71. Kingsmen Quarters",
+        "K70. Kingsmen Hall": "K70. Kingsmen Hall",
+        "K69. Guards' Quarters": "K69. Guards' Quarters",
+        "K64. Guards' Stair": "K64. Guards' Stair",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K68. Guards' Run": "K68. Guards' Run",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K63. Wine Cellar": "K63. Wine Cellar",
+        "K62. Servants' Hall": "K62. Servants' Hall",
+        "K65. Kitchen": "K65. Kitchen",
+        "K61. Elevator Trap": "K61. Elevator Trap",
+        "K83a. Spiral Stair Landing": "K83a. Spiral Stair Landing"
+      }
+    },
+    "IOp4c66XXZVXzPvP": {
+      "name": "Main Floor (Battlemap; DM Version)",
+      "notes": {
+        "K12. Turret Post": "K12. Turret Post",
+        "K13. Turret Post Access Hall": "K13. Turret Post Access Hall",
+        "K19. Grand Landing": "K19. Grand Landing",
+        "K7. Entry": "K7. Entry",
+        "K64. Guards' Stair": "K64. Guards' Stair",
+        "K22. North Archers' Post": "K22. North Archers' Post",
+        "K11. South Archers' Post": "K11. South Archers' Post",
+        "K20a. Tower Hall Stair": "K20a. Tower Hall Stair",
+        "K31a. Elevator Shaft": "K31a. Elevator Shaft",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K10. Dining Hall": "K10. Dining Hall",
+        "K24. Servants' Quarters": "K24. Servants' Quarters",
+        "K23. Servants' Entrance": "K23. Servants' Entrance",
+        "K16. North Chapel Access": "K16. North Chapel Access",
+        "K29. Creaky Landing": "K29. Creaky Landing",
+        "K17. South Chapel Access": "K17. South Chapel Access",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K14. Hall of Faith": "K14. Hall of Faith",
+        "K15. Chapel": "K15. Chapel",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K9. Guests' Hall": "K9. Guests' Hall",
+        "K8. Great Entry": "K8. Great Entry"
+      }
+    },
+    "8MpGRCL4ru1g2E9T": {
+      "name": "Main Floor (Battlemap; Player Version)",
+      "notes": {
+        "K12. Turret Post": "K12. Turret Post",
+        "K13. Turret Post Access Hall": "K13. Turret Post Access Hall",
+        "K19. Grand Landing": "K19. Grand Landing",
+        "K10. Dining Hall": "K10. Dining Hall",
+        "K22. North Archers' Post": "K22. North Archers' Post",
+        "K7. Entry": "K7. Entry",
+        "K64. Guards' Stair": "K64. Guards' Stair",
+        "K11. South Archers' Post": "K11. South Archers' Post",
+        "K31a. Elevator Shaft": "K31a. Elevator Shaft",
+        "K20a. Tower Hall Stair": "K20a. Tower Hall Stair",
+        "K24. Servants' Quarters": "K24. Servants' Quarters",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K23. Servants' Entrance": "K23. Servants' Entrance",
+        "K17. South Chapel Access": "K17. South Chapel Access",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K16. North Chapel Access": "K16. North Chapel Access",
+        "K15. Chapel": "K15. Chapel",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K9. Guests' Hall": "K9. Guests' Hall",
+        "K14. Hall of Faith": "K14. Hall of Faith",
+        "K8. Great Entry": "K8. Great Entry",
+        "K29. Creaky Landing": "K29. Creaky Landing"
+      }
+    },
+    "UeTKYNNsherR7gBl": {
+      "name": "Map 10.1: The Ruins of Berez (Area U)",
+      "notes": {
+        "U4. Churchyard": "U4. Churchyard",
+        "U5. Marina's Monument": "U5. Marina's Monument",
+        "U2. Ulrich Mansion": "U2. Ulrich Mansion",
+        "U3. Baba Lysaga's Hut": "U3. Baba Lysaga's Hut",
+        "U1. Abandoned Cottages": "U1. Abandoned Cottages",
+        "U6. Standing Stones": "U6. Standing Stones"
+      }
+    },
+    "z44JOE91Q4JB2dRJ": {
+      "name": "Map 10.1: The Ruins of Berez (Area U) (Player Version)",
+      "notes": {
+        "U5. Marina's Monument": "U5. Marina's Monument",
+        "U1. Abandoned Cottages": "U1. Abandoned Cottages",
+        "U6. Standing Stones": "U6. Standing Stones",
+        "U2. Ulrich Mansion": "U2. Ulrich Mansion",
+        "U4. Churchyard": "U4. Churchyard",
+        "U3. Baba Lysaga's Hut": "U3. Baba Lysaga's Hut"
+      }
+    },
+    "JQhMHPqUgD9KXniR": {
+      "name": "Map 10.2: Baba Lysaga's Creeping Hut",
+      "notes": {
+        "U3. Baba Lysaga's Hut": "U3. Baba Lysaga's Hut"
+      }
+    },
+    "yT60BIkTt34ZJkOv": {
+      "name": "Map 10.2: Baba Lysaga's Creeping Hut (Player Version)",
+      "notes": {
+        "U3. Baba Lysaga's Hut": "U3. Baba Lysaga's Hut"
+      }
+    },
+    "ngOo6TutV3gRWbfH": {
+      "name": "Map 11.1: Van Richten's Tower (Area V)",
+      "notes": {
+        "V7. Tower, Fourth Floor": "V7. Tower, Fourth Floor",
+        "V6. Tower, Third Floor": "V6. Tower, Third Floor",
+        "V3. Rickety Scaffolding": "V3. Rickety Scaffolding",
+        "V5. Tower, Second Floor": "V5. Tower, Second Floor",
+        "V4. Tower, First Floor": "V4. Tower, First Floor",
+        "V2. Tower Door": "V2. Tower Door",
+        "V1. Ezmerelda's Magic Wagon": "V1. Ezmerelda's Magic Wagon"
+      }
+    },
+    "rwqHXX2srl6y9J5e": {
+      "name": "Map 11.1: Van Richten's Tower (Area V) (Player Version)",
+      "notes": {
+        "V7. Tower, Fourth Floor": "V7. Tower, Fourth Floor",
+        "V6. Tower, Third Floor": "V6. Tower, Third Floor",
+        "V3. Rickety Scaffolding": "V3. Rickety Scaffolding",
+        "V5. Tower, Second Floor": "V5. Tower, Second Floor",
+        "V4. Tower, First Floor": "V4. Tower, First Floor",
+        "V2. Tower Door": "V2. Tower Door",
+        "V1. Ezmerelda's Magic Wagon": "V1. Ezmerelda's Magic Wagon"
+      }
+    },
+    "yvH3vijBq6aqiTqB": {
+      "name": "Map 11: Larders of Ill Omen & Map 12: Dungeon and Catacombs",
+      "notes": {
+        "K69. Guards' Quarters": "K69. Guards' Quarters",
+        "K68. Guards' Run": "K68. Guards' Run",
+        "K62. Servants' Hall": "K62. Servants' Hall",
+        "K61. Elevator Trap": "K61. Elevator Trap",
+        "K64. Guards' Stair": "K64. Guards' Stair",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K66. Butler's Quarters": "K66. Butler's Quarters",
+        "K67. Hall of Bones": "K67. Hall of Bones",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K65. Kitchen": "K65. Kitchen",
+        "K70. Kingsmen Hall": "K70. Kingsmen Hall",
+        "K71. Kingsmen Quarters": "K71. Kingsmen Quarters",
+        "K72. Chamberlain's Office": "K72. Chamberlain's Office",
+        "K79. Western Stair": "K79. Western Stair",
+        "K83. Spiral Stair": "K83. Spiral Stair",
+        "K83a. Spiral Stair Landing": "K83a. Spiral Stair Landing",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K23. Servants' Entrance": "K23. Servants' Entrance",
+        "K63. Wine Cellar": "K63. Wine Cellar",
+        "K76. Torture Chamber": "K76. Torture Chamber",
+        "K77. Observation Balcony": "K77. Observation Balcony",
+        "K78. Brazier Room": "K78. Brazier Room",
+        "K80. Center Stair": "K80. Center Stair",
+        "K82. Marble Slide": "K82. Marble Slide",
+        "K81. Tunnel": "K81. Tunnel",
+        "K74. North Dungeon": "K74. North Dungeon",
+        "K75. South Dungeon": "K75. South Dungeon",
+        "K73. Dungeon Hall": "K73. Dungeon Hall",
+        "K75h. Empty Cell": "K75h. Empty Cell",
+        "K75g. Hanging Bard": "K75g. Hanging Bard",
+        "K75f. Dead Wizard": "K75f. Dead Wizard",
+        "K75e. Empty Cell": "K75e. Empty Cell",
+        "K75a. Prisoner": "K75a. Prisoner",
+        "K75b. Forgotten Treasure": "K75b. Forgotten Treasure",
+        "K75d. Dead Dwarf": "K75d. Dead Dwarf",
+        "K75c. Empty Cell": "K75c. Empty Cell",
+        "K74e. End of the Ride": "K74e. End of the Ride",
+        "K74a. Forgotten Treasure": "K74a. Forgotten Treasure",
+        "K74b. Forgotten Treasure": "K74b. Forgotten Treasure",
+        "K74c. Rotting Corpse": "K74c. Rotting Corpse",
+        "K74d. Empty Cell": "K74d. Empty Cell",
+        "K74f. Empty Cell": "K74f. Empty Cell",
+        "K74g. Gray Ooze": "K74g. Gray Ooze",
+        "K74h. Lost Sword": "K74h. Lost Sword",
+        "K86. Strahd's Tomb": "K86. Strahd's Tomb",
+        "K85. Sergei's Tomb": "K85. Sergei's Tomb",
+        "K88. Tomb of King Barov and Queen Ravenovia": "K88. Tomb of King Barov and Queen Ravenovia",
+        "K87. Guardians": "K87. Guardians",
+        "K29. Creaky Landing": "K29. Creaky Landing",
+        "Crypt 1": "Crypt 1",
+        "Crypt 7": "Crypt 7",
+        "Crypt 12": "Crypt 12",
+        "Crypt 24": "Crypt 24",
+        "Crypt 35": "Crypt 35",
+        "Crypt 31": "Crypt 31",
+        "Crypt 25": "Crypt 25",
+        "Crypt 30": "Crypt 30",
+        "Crypt 21": "Crypt 21",
+        "Crypt 26": "Crypt 26",
+        "Crypt 36": "Crypt 36",
+        "Crypt 32": "Crypt 32",
+        "Crypt 37": "Crypt 37",
+        "Crypt 38": "Crypt 38",
+        "Crypt 40": "Crypt 40",
+        "Crypt 39": "Crypt 39",
+        "Crypt 34": "Crypt 34",
+        "Crypt 33": "Crypt 33",
+        "Crypt 27": "Crypt 27",
+        "Crypt 22": "Crypt 22",
+        "Crypt 23": "Crypt 23",
+        "Crypt 28": "Crypt 28",
+        "K84. Catacombs": "K84. Catacombs",
+        "Crypt 18": "Crypt 18",
+        "Crypt 13": "Crypt 13",
+        "Crypt 14": "Crypt 14",
+        "Crypt 19": "Crypt 19",
+        "Crypt 20": "Crypt 20",
+        "Crypt 16": "Crypt 16",
+        "Crypt 15": "Crypt 15",
+        "Crypt 8": "Crypt 8",
+        "Crypt 17": "Crypt 17",
+        "Crypt 9": "Crypt 9",
+        "Crypt 11": "Crypt 11",
+        "Crypt 6": "Crypt 6",
+        "Crypt 10": "Crypt 10",
+        "Crypt 5": "Crypt 5",
+        "Crypt 3": "Crypt 3",
+        "Crypt 4": "Crypt 4",
+        "Crypt 2": "Crypt 2"
+      }
+    },
+    "pTBhJj5eOoRH4GDn": {
+      "name": "Map 11: Larders of Ill Omen & Map 12: Dungeon and Catacombs (Player Version)",
+      "notes": {
+        "K68. Guards' Run": "K68. Guards' Run",
+        "K67. Hall of Bones": "K67. Hall of Bones",
+        "K64. Guards' Stair": "K64. Guards' Stair",
+        "K66. Butler's Quarters": "K66. Butler's Quarters",
+        "K61. Elevator Trap": "K61. Elevator Trap",
+        "K62. Servants' Hall": "K62. Servants' Hall",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K65. Kitchen": "K65. Kitchen",
+        "K70. Kingsmen Hall": "K70. Kingsmen Hall",
+        "K72. Chamberlain's Office": "K72. Chamberlain's Office",
+        "K71. Kingsmen Quarters": "K71. Kingsmen Quarters",
+        "K83a. Spiral Stair Landing": "K83a. Spiral Stair Landing",
+        "K79. Western Stair": "K79. Western Stair",
+        "K83. Spiral Stair": "K83. Spiral Stair",
+        "K23. Servants' Entrance": "K23. Servants' Entrance",
+        "K63. Wine Cellar": "K63. Wine Cellar",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K76. Torture Chamber": "K76. Torture Chamber",
+        "K78. Brazier Room": "K78. Brazier Room",
+        "K77. Observation Balcony": "K77. Observation Balcony",
+        "K80. Center Stair": "K80. Center Stair",
+        "K82. Marble Slide": "K82. Marble Slide",
+        "K81. Tunnel": "K81. Tunnel",
+        "K74. North Dungeon": "K74. North Dungeon",
+        "K75. South Dungeon": "K75. South Dungeon",
+        "K73. Dungeon Hall": "K73. Dungeon Hall",
+        "K75h. Empty Cell": "K75h. Empty Cell",
+        "K75f. Dead Wizard": "K75f. Dead Wizard",
+        "K75e. Empty Cell": "K75e. Empty Cell",
+        "K75a. Prisoner": "K75a. Prisoner",
+        "K75b. Forgotten Treasure": "K75b. Forgotten Treasure",
+        "K75d. Dead Dwarf": "K75d. Dead Dwarf",
+        "K75c. Empty Cell": "K75c. Empty Cell",
+        "K74e. End of the Ride": "K74e. End of the Ride",
+        "K74a. Forgotten Treasure": "K74a. Forgotten Treasure",
+        "K74b. Forgotten Treasure": "K74b. Forgotten Treasure",
+        "K74d. Empty Cell": "K74d. Empty Cell",
+        "K74f. Empty Cell": "K74f. Empty Cell",
+        "K74g. Gray Ooze": "K74g. Gray Ooze",
+        "K74h. Lost Sword": "K74h. Lost Sword",
+        "K86. Strahd's Tomb": "K86. Strahd's Tomb",
+        "K85. Sergei's Tomb": "K85. Sergei's Tomb",
+        "K88. Tomb of King Barov and Queen Ravenovia": "K88. Tomb of King Barov and Queen Ravenovia",
+        "K87. Guardians": "K87. Guardians",
+        "K29. Creaky Landing": "K29. Creaky Landing",
+        "Crypt 1": "Crypt 1",
+        "K74c. Rotting Corpse": "K74c. Rotting Corpse",
+        "Crypt 7": "Crypt 7",
+        "Crypt 12": "Crypt 12",
+        "K75g. Hanging Bard": "K75g. Hanging Bard",
+        "Crypt 24": "Crypt 24",
+        "Crypt 35": "Crypt 35",
+        "Crypt 30": "Crypt 30",
+        "Crypt 36": "Crypt 36",
+        "Crypt 31": "Crypt 31",
+        "Crypt 25": "Crypt 25",
+        "Crypt 21": "Crypt 21",
+        "Crypt 26": "Crypt 26",
+        "Crypt 32": "Crypt 32",
+        "Crypt 37": "Crypt 37",
+        "Crypt 38": "Crypt 38",
+        "Crypt 39": "Crypt 39",
+        "Crypt 40": "Crypt 40",
+        "Crypt 34": "Crypt 34",
+        "Crypt 33": "Crypt 33",
+        "Crypt 27": "Crypt 27",
+        "Crypt 22": "Crypt 22",
+        "Crypt 23": "Crypt 23",
+        "Crypt 28": "Crypt 28",
+        "K84. Catacombs": "K84. Catacombs",
+        "Crypt 18": "Crypt 18",
+        "Crypt 13": "Crypt 13",
+        "Crypt 14": "Crypt 14",
+        "Crypt 20": "Crypt 20",
+        "Crypt 19": "Crypt 19",
+        "Crypt 16": "Crypt 16",
+        "Crypt 15": "Crypt 15",
+        "Crypt 8": "Crypt 8",
+        "Crypt 17": "Crypt 17",
+        "Crypt 9": "Crypt 9",
+        "Crypt 10": "Crypt 10",
+        "Crypt 11": "Crypt 11",
+        "Crypt 6": "Crypt 6",
+        "Crypt 5": "Crypt 5",
+        "Crypt 4": "Crypt 4",
+        "Crypt 3": "Crypt 3",
+        "Crypt 2": "Crypt 2",
+        "K69. Guards' Quarters": "K69. Guards' Quarters"
+      }
+    },
+    "5HkLoQqmihxLuRXu": {
+      "name": "Map 12.1: Wizard of Wines Winery (Area W)",
+      "notes": {
+        "W7. Outhouse": "W7. Outhouse",
+        "W20. Printing Press": "W20. Printing Press",
+        "W19. Sleeping Quarters": "W19. Sleeping Quarters",
+        "W18. Kitchen and Dining Room": "W18. Kitchen and Dining Room",
+        "W17. Master Bedroom": "W17. Master Bedroom",
+        "W16. Loading Winch": "W16. Loading Winch",
+        "W12. Ramp": "W12. Ramp",
+        "W11. Spiral Staircase": "W11. Spiral Staircase",
+        "W6. Well": "W6. Well",
+        "W8. Storage": "W8. Storage",
+        "W5. Veranda": "W5. Veranda",
+        "W9. Fermentation Vats": "W9. Fermentation Vats",
+        "W2. Loading Dock": "W2. Loading Dock",
+        "W1. Stables": "W1. Stables",
+        "W10. Glassblower's Workshop": "W10. Glassblower's Workshop",
+        "W3. Barrel Maker's Workshop": "W3. Barrel Maker's Workshop",
+        "W13. Back Staircase": "W13. Back Staircase",
+        "W15. Brown Mold": "W15. Brown Mold",
+        "W4. Barrel Storage": "W4. Barrel Storage",
+        "W14. Wine Cellar": "W14. Wine Cellar"
+      }
+    },
+    "5valMVSb3eCaGvjQ": {
+      "name": "Map 12.1: Wizard of Wines Winery (Area W) (Player Version)",
+      "notes": {
+        "W7. Outhouse": "W7. Outhouse",
+        "W20. Printing Press": "W20. Printing Press",
+        "W19. Sleeping Quarters": "W19. Sleeping Quarters",
+        "W18. Kitchen and Dining Room": "W18. Kitchen and Dining Room",
+        "W17. Master Bedroom": "W17. Master Bedroom",
+        "W16. Loading Winch": "W16. Loading Winch",
+        "W12. Ramp": "W12. Ramp",
+        "W11. Spiral Staircase": "W11. Spiral Staircase",
+        "W6. Well": "W6. Well",
+        "W8. Storage": "W8. Storage",
+        "W5. Veranda": "W5. Veranda",
+        "W9. Fermentation Vats": "W9. Fermentation Vats",
+        "W10. Glassblower's Workshop": "W10. Glassblower's Workshop",
+        "W2. Loading Dock": "W2. Loading Dock",
+        "W4. Barrel Storage": "W4. Barrel Storage",
+        "W1. Stables": "W1. Stables",
+        "W13. Back Staircase": "W13. Back Staircase",
+        "W15. Brown Mold": "W15. Brown Mold",
+        "W14. Wine Cellar": "W14. Wine Cellar",
+        "W3. Barrel Maker's Workshop": "W3. Barrel Maker's Workshop"
+      }
+    },
+    "9djY5DyL2oCXFG68": {
+      "name": "Map 13.1: Amber Temple (Area X) - Upper Level",
+      "notes": {
+        "X30. Preserved Library": "X30. Preserved Library",
+        "X28. Hidden Phylactery": "X28. Hidden Phylactery",
+        "X29. Secret Room": "X29. Secret Room",
+        "X26. Secret Alcove": "X26. Secret Alcove",
+        "X24. West Shrine": "X24. West Shrine",
+        "X25. West Archer Post": "X25. West Archer Post",
+        "X12. East Shrine": "X12. East Shrine",
+        "X27. Lich's Lair": "X27. Lich's Lair",
+        "X14. North Staircase": "X14. North Staircase",
+        "X11. Northeast Balcony": "X11. Northeast Balcony",
+        "X23. Northwest Balcony": "X23. Northwest Balcony",
+        "X22. Northwest Annex": "X22. Northwest Annex",
+        "X17. Upper West Hall": "X17. Upper West Hall",
+        "X20. Architect's Room": "X20. Architect's Room",
+        "X13. East Archer Post": "X13. East Archer Post",
+        "X19. Potion Storage": "X19. Potion Storage",
+        "X21. West Staircase": "X21. West Staircase",
+        "X5a. God of Secrets": "X5a. God of Secrets",
+        "X4. Overlook": "X4. Overlook",
+        "X3. Empty Barracks": "X3. Empty Barracks",
+        "X15. Southwest Annex": "X15. Southwest Annex",
+        "X16. West Scroll Repository": "X16. West Scroll Repository",
+        "X2a. Guard Room": "X2a. Guard Room",
+        "X2. Entrance": "X2. Entrance",
+        "X2b. Guard Room": "X2b. Guard Room",
+        "X7. Secret Scroll Repository": "X7. Secret Scroll Repository",
+        "X6. Southeast Annex": "X6. Southeast Annex",
+        "X8. Upper East Hall": "X8. Upper East Hall",
+        "X9. Lecture Hall": "X9. Lecture Hall",
+        "X10. Northeast Annex": "X10. Northeast Annex",
+        "X1. Temple Facade": "X1. Temple Facade",
+        "X1a. Narrow Fissure": "X1a. Narrow Fissure",
+        "X18. Hallway": "X18. Hallway"
+      }
+    },
+    "kpH3rVxBcIHuPaPW": {
+      "name": "Map 13.1: Amber Temple (Area X) - Upper Level (Player Version)",
+      "notes": {
+        "X30. Preserved Library": "X30. Preserved Library",
+        "X28. Hidden Phylactery": "X28. Hidden Phylactery",
+        "X26. Secret Alcove": "X26. Secret Alcove",
+        "X24. West Shrine": "X24. West Shrine",
+        "X25. West Archer Post": "X25. West Archer Post",
+        "X29. Secret Room": "X29. Secret Room",
+        "X13. East Archer Post": "X13. East Archer Post",
+        "X14. North Staircase": "X14. North Staircase",
+        "X12. East Shrine": "X12. East Shrine",
+        "X11. Northeast Balcony": "X11. Northeast Balcony",
+        "X27. Lich's Lair": "X27. Lich's Lair",
+        "X17. Upper West Hall": "X17. Upper West Hall",
+        "X20. Architect's Room": "X20. Architect's Room",
+        "X22. Northwest Annex": "X22. Northwest Annex",
+        "X19. Potion Storage": "X19. Potion Storage",
+        "X21. West Staircase": "X21. West Staircase",
+        "X5a. God of Secrets": "X5a. God of Secrets",
+        "X18. Hallway": "X18. Hallway",
+        "X3. Empty Barracks": "X3. Empty Barracks",
+        "X15. Southwest Annex": "X15. Southwest Annex",
+        "X16. West Scroll Repository": "X16. West Scroll Repository",
+        "X2b. Guard Room": "X2b. Guard Room",
+        "X2a. Guard Room": "X2a. Guard Room",
+        "X7. Secret Scroll Repository": "X7. Secret Scroll Repository",
+        "X6. Southeast Annex": "X6. Southeast Annex",
+        "X8. Upper East Hall": "X8. Upper East Hall",
+        "X2. Entrance": "X2. Entrance",
+        "X10. Northeast Annex": "X10. Northeast Annex",
+        "X1. Temple Facade": "X1. Temple Facade",
+        "X9. Lecture Hall": "X9. Lecture Hall",
+        "X4. Overlook": "X4. Overlook",
+        "X1a. Narrow Fissure": "X1a. Narrow Fissure",
+        "X23. Northwest Balcony": "X23. Northwest Balcony"
+      }
+    },
+    "OetnZCaivOTXkaHS": {
+      "name": "Map 13.2: Amber Temple (Area X) - Lower Level",
+      "notes": {
+        "X33d. Breached Vault": "X33d. Breached Vault",
+        "X33e. Vault of Harkotha": "X33e. Vault of Harkotha",
+        "X38. Haunted Room": "X38. Haunted Room",
+        "X37. Wizard's Bedchamber": "X37. Wizard's Bedchamber",
+        "X36. Lower West Hall": "X36. Lower West Hall",
+        "X21. West Staircase": "X21. West Staircase",
+        "X33f. Vault of Thangob": "X33f. Vault of Thangob",
+        "X31a. West Catacombs": "X31a. West Catacombs",
+        "X31. Central Catacombs": "X31. Central Catacombs",
+        "X31b. East Catacombs": "X31b. East Catacombs",
+        "X5d. Amber Reflections": "X5d. Amber Reflections",
+        "X39. Plundered Treasury": "X39. Plundered Treasury",
+        "X40. Sealed Treasury": "X40. Sealed Treasury",
+        "X42. Amber Vault": "X42. Amber Vault",
+        "X41. Fissure": "X41. Fissure",
+        "X5b. Secret Door": "X5b. Secret Door",
+        "X5a. God of Secrets": "X5a. God of Secrets",
+        "X32. Lower East Hall": "X32. Lower East Hall",
+        "X5. Temple of Lost Secrets": "X5. Temple of Lost Secrets",
+        "X35. Sleeping Guardian": "X35. Sleeping Guardian",
+        "X34. Wizard's Bedchamber": "X34. Wizard's Bedchamber",
+        "X5c. Locked Doors": "X5c. Locked Doors",
+        "X14. North Staircase": "X14. North Staircase",
+        "X14a. Collapsed Lower Hall": "X14a. Collapsed Lower Hall",
+        "X33c. Ghastly Vault": "X33c. Ghastly Vault",
+        "X33b. Vault of Maverus": "X33b. Vault of Maverus",
+        "X33a. Vault of Shalx": "X33a. Vault of Shalx"
+      }
+    },
+    "TWrj3fgXWzbKQT3Y": {
+      "name": "Map 13.2: Amber Temple (Area X) - Lower Level (Player Version)",
+      "notes": {
+        "X33d. Breached Vault": "X33d. Breached Vault",
+        "X38. Haunted Room": "X38. Haunted Room",
+        "X33e. Vault of Harkotha": "X33e. Vault of Harkotha",
+        "X36. Lower West Hall": "X36. Lower West Hall",
+        "X37. Wizard's Bedchamber": "X37. Wizard's Bedchamber",
+        "X33f. Vault of Thangob": "X33f. Vault of Thangob",
+        "X31a. West Catacombs": "X31a. West Catacombs",
+        "X31. Central Catacombs": "X31. Central Catacombs",
+        "X21. West Staircase": "X21. West Staircase",
+        "X5d. Amber Reflections": "X5d. Amber Reflections",
+        "X39. Plundered Treasury": "X39. Plundered Treasury",
+        "X31b. East Catacombs": "X31b. East Catacombs",
+        "X42. Amber Vault": "X42. Amber Vault",
+        "X40. Sealed Treasury": "X40. Sealed Treasury",
+        "X5b. Secret Door": "X5b. Secret Door",
+        "X5. Temple of Lost Secrets": "X5. Temple of Lost Secrets",
+        "X5a. God of Secrets": "X5a. God of Secrets",
+        "X41. Fissure": "X41. Fissure",
+        "X35. Sleeping Guardian": "X35. Sleeping Guardian",
+        "X14. North Staircase": "X14. North Staircase",
+        "X34. Wizard's Bedchamber": "X34. Wizard's Bedchamber",
+        "X5c. Locked Doors": "X5c. Locked Doors",
+        "X14a. Collapsed Lower Hall": "X14a. Collapsed Lower Hall",
+        "X33b. Vault of Maverus": "X33b. Vault of Maverus",
+        "X33a. Vault of Shalx": "X33a. Vault of Shalx",
+        "X33c. Ghastly Vault": "X33c. Ghastly Vault",
+        "X32. Lower East Hall": "X32. Lower East Hall"
+      }
+    },
+    "77JEkdT52xbZr59l": {
+      "name": "Map 14.1: Yester Hill (Area Y)",
+      "notes": {
+        "Y2. Berserker Cairns": "Y2. Berserker Cairns",
+        "Y1. Trail": "Y1. Trail",
+        "Y5. Wall of Fog": "Y5. Wall of Fog",
+        "Y4. Gulthias Tree": "Y4. Gulthias Tree",
+        "Y3. Druids' Circle": "Y3. Druids' Circle"
+      }
+    },
+    "JaLPrXy5VFXpzIN9": {
+      "name": "Map 14.1: Yester Hill (Area Y) (Player Version)",
+      "notes": {
+        "Y1. Trail": "Y1. Trail",
+        "Y5. Wall of Fog": "Y5. Wall of Fog",
+        "Y2. Berserker Cairns": "Y2. Berserker Cairns",
+        "Y4. Gulthias Tree": "Y4. Gulthias Tree",
+        "Y3. Druids' Circle": "Y3. Druids' Circle"
+      }
+    },
+    "5AvLESkiucT30bq0": {
+      "name": "Map 15.1: Werewolf Den (Area Z)",
+      "notes": {
+        "Z8. Ring of Stone": "Z8. Ring of Stone",
+        "Z6. Kiril's Cave": "Z6. Kiril's Cave",
+        "Z5b. North Cave": "Z5b. North Cave",
+        "Z5a. South Cave": "Z5a. South Cave",
+        "Z7. Shrine of Mother Night": "Z7. Shrine of Mother Night",
+        "Z5. Deep Caves": "Z5. Deep Caves",
+        "Z4. Underground Spring": "Z4. Underground Spring",
+        "Z3. Wolf Den": "Z3. Wolf Den",
+        "Z1. Cave Mouth": "Z1. Cave Mouth",
+        "Z2. Guard Post": "Z2. Guard Post"
+      }
+    },
+    "gucHpraODwwEeR1k": {
+      "name": "Map 15.1: Werewolf Den (Area Z) (Player Version)",
+      "notes": {
+        "Z8. Ring of Stone": "Z8. Ring of Stone",
+        "Z5b. North Cave": "Z5b. North Cave",
+        "Z5a. South Cave": "Z5a. South Cave",
+        "Z6. Kiril's Cave": "Z6. Kiril's Cave",
+        "Z5. Deep Caves": "Z5. Deep Caves",
+        "Z2. Guard Post": "Z2. Guard Post",
+        "Z3. Wolf Den": "Z3. Wolf Den",
+        "Z1. Cave Mouth": "Z1. Cave Mouth",
+        "Z7. Shrine of Mother Night": "Z7. Shrine of Mother Night",
+        "Z4. Underground Spring": "Z4. Underground Spring"
+      }
+    },
+    "jKVADg6jn8jPZ4uW": {
+      "name": "Map 2.1: Barovia",
+      "notes": {
+        "S. Village of Krezk": "S. Village of Krezk",
+        "Z. Werewolf Den": "Z. Werewolf Den",
+        "R. Raven River Crossroads": "R. Raven River Crossroads",
+        "V. Van Richten's Tower": "V. Van Richten's Tower",
+        "M. Mad Mage of Mount Baratok": "M. Mad Mage of Mount Baratok",
+        "L. Lake Zarovich": "L. Lake Zarovich",
+        "N. Town of Vallaki": "N. Town of Vallaki",
+        "P. Luna River Crossroads": "P. Luna River Crossroads",
+        "Q. Argynvostholt": "Q. Argynvostholt",
+        "U. Ruins of Berez": "U. Ruins of Berez",
+        "T. Tsolenka Pass": "T. Tsolenka Pass",
+        "X. The Amber Temple": "X. The Amber Temple",
+        "G. Tser Pool Encampment": "G. Tser Pool Encampment",
+        "H. Tser Falls": "H. Tser Falls",
+        "I. Black Carriage": "I. Black Carriage",
+        "B. Gates of Barovia": "B. Gates of Barovia",
+        "O. Old Bonegrinder": "O. Old Bonegrinder",
+        "J. Gates of Ravenloft": "J. Gates of Ravenloft",
+        "K. Castle Ravenloft": "K. Castle Ravenloft",
+        "E. Village of Barovia": "E. Village of Barovia",
+        "D. River Ivlis": "D. River Ivlis",
+        "C. Svalich Woods": "C. Svalich Woods",
+        "A. Old Svalich Road": "A. Old Svalich Road",
+        "F. River Ivlis Crossroads": "F. River Ivlis Crossroads",
+        "W. The Wizard of Wines": "W. The Wizard of Wines",
+        "Y. Yester Hill": "Y. Yester Hill"
+      }
+    },
+    "xLkrhFcomUMgIPuU": {
+      "name": "Map 2.1: Barovia (Player Version)",
+      "notes": {
+        "S. Village of Krezk": "S. Village of Krezk",
+        "Z. Werewolf Den": "Z. Werewolf Den",
+        "R. Raven River Crossroads": "R. Raven River Crossroads",
+        "V. Van Richten's Tower": "V. Van Richten's Tower",
+        "L. Lake Zarovich": "L. Lake Zarovich",
+        "N. Town of Vallaki": "N. Town of Vallaki",
+        "P. Luna River Crossroads": "P. Luna River Crossroads",
+        "M. Mad Mage of Mount Baratok": "M. Mad Mage of Mount Baratok",
+        "Q. Argynvostholt": "Q. Argynvostholt",
+        "T. Tsolenka Pass": "T. Tsolenka Pass",
+        "X. The Amber Temple": "X. The Amber Temple",
+        "G. Tser Pool Encampment": "G. Tser Pool Encampment",
+        "U. Ruins of Berez": "U. Ruins of Berez",
+        "H. Tser Falls": "H. Tser Falls",
+        "I. Black Carriage": "I. Black Carriage",
+        "J. Gates of Ravenloft": "J. Gates of Ravenloft",
+        "K. Castle Ravenloft": "K. Castle Ravenloft",
+        "D. River Ivlis": "D. River Ivlis",
+        "B. Gates of Barovia": "B. Gates of Barovia",
+        "C. Svalich Woods": "C. Svalich Woods",
+        "O. Old Bonegrinder": "O. Old Bonegrinder",
+        "A. Old Svalich Road": "A. Old Svalich Road",
+        "F. River Ivlis Crossroads": "F. River Ivlis Crossroads",
+        "W. The Wizard of Wines": "W. The Wizard of Wines",
+        "Y. Yester Hill": "Y. Yester Hill",
+        "E. Village of Barovia": "E. Village of Barovia"
+      }
+    },
+    "FE04aeQlMPEZPtOf": {
+      "name": "Map 2.2: Tser Pool Encampment"
+    },
+    "h4cCJ59GcBmcIdzP": {
+      "name": "Map 2.2: Tser Pool Encampment (Player Version)"
+    },
+    "9uOvmZMl2K1jKhhW": {
+      "name": "Map 2: Walls of Ravenloft",
+      "notes": {
+        "J. Gates of Ravenloft": "J. Gates of Ravenloft",
+        "K1. Front Courtyard": "K1. Front Courtyard",
+        "K2. Center Court Gate": "K2. Center Court Gate",
+        "K5. Chapel Garden": "K5. Chapel Garden",
+        "K6. Overlook": "K6. Overlook",
+        "K4. Carriage House": "K4. Carriage House",
+        "K3. Servants' Courtyard": "K3. Servants' Courtyard"
+      }
+    },
+    "1vc6VZFA7487sWYT": {
+      "name": "Map 2: Walls of Ravenloft (Player Version)",
+      "notes": {
+        "K1. Front Courtyard": "K1. Front Courtyard",
+        "K2. Center Court Gate": "K2. Center Court Gate",
+        "J. Gates of Ravenloft": "J. Gates of Ravenloft",
+        "K5. Chapel Garden": "K5. Chapel Garden",
+        "K6. Overlook": "K6. Overlook",
+        "K4. Carriage House": "K4. Carriage House",
+        "K3. Servants' Courtyard": "K3. Servants' Courtyard"
+      }
+    },
+    "rcNNK7pOcLedsjpo": {
+      "name": "Map 3.1: Village of Barovia",
+      "notes": {
+        "E6. Cemetery": "E6. Cemetery",
+        "E5. Church": "E5. Church",
+        "E2. Blood of the Vine Tavern": "E2. Blood of the Vine Tavern",
+        "E7. Haunted House": "E7. Haunted House",
+        "E1. Bildrath's Mercantile": "E1. Bildrath's Mercantile",
+        "E3. Mad Mary's Townhouse": "E3. Mad Mary's Townhouse",
+        "E4. Burgomaster's Mansion": "E4. Burgomaster's Mansion"
+      }
+    },
+    "LUOdputNaQTIUjrJ": {
+      "name": "Map 3.1: Village of Barovia (Player Version)",
+      "notes": {
+        "E6. Cemetery": "E6. Cemetery",
+        "E5. Church": "E5. Church",
+        "E2. Blood of the Vine Tavern": "E2. Blood of the Vine Tavern",
+        "E7. Haunted House": "E7. Haunted House",
+        "E1. Bildrath's Mercantile": "E1. Bildrath's Mercantile",
+        "E3. Mad Mary's Townhouse": "E3. Mad Mary's Townhouse",
+        "E4. Burgomaster's Mansion": "E4. Burgomaster's Mansion"
+      }
+    },
+    "406EX8EB0QcTCNMs": {
+      "name": "Map 3.2: Church",
+      "notes": {
+        "E5f. Chapel": "E5f. Chapel",
+        "E5c. Donavich's Bedroom": "E5c. Donavich's Bedroom",
+        "E5b. Doru's Bedroom": "E5b. Doru's Bedroom",
+        "E5a. Hall": "E5a. Hall",
+        "E5e. Office": "E5e. Office",
+        "E5d. Trapdoor": "E5d. Trapdoor",
+        "E5g. Undercroft": "E5g. Undercroft"
+      }
+    },
+    "okxs1P67RAJXBVgc": {
+      "name": "Map 3.2: Church (Player Version)",
+      "notes": {
+        "E5c. Donavich's Bedroom": "E5c. Donavich's Bedroom",
+        "E5e. Office": "E5e. Office",
+        "E5d. Trapdoor": "E5d. Trapdoor",
+        "E5g. Undercroft": "E5g. Undercroft",
+        "E5f. Chapel": "E5f. Chapel",
+        "E5b. Doru's Bedroom": "E5b. Doru's Bedroom",
+        "E5a. Hall": "E5a. Hall"
+      }
+    },
+    "H96z43bInZCWvrpz": {
+      "name": "Map 3: Main Floor",
+      "notes": {
+        "K19. Grand Landing": "K19. Grand Landing",
+        "K12. Turret Post": "K12. Turret Post",
+        "K13. Turret Post Access Hall": "K13. Turret Post Access Hall",
+        "K11. South Archers' Post": "K11. South Archers' Post",
+        "K10. Dining Hall": "K10. Dining Hall",
+        "K7. Entry": "K7. Entry",
+        "K9. Guests' Hall": "K9. Guests' Hall",
+        "K8. Great Entry": "K8. Great Entry",
+        "K83. Spiral Stair": "K83. Spiral Stair",
+        "K64. Guards' Stair": "K64. Guards' Stair",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K17. South Chapel Access": "K17. South Chapel Access",
+        "K14. Hall of Faith": "K14. Hall of Faith",
+        "K20a. Tower Hall Stair": "K20a. Tower Hall Stair",
+        "K29. Creaky Landing": "K29. Creaky Landing",
+        "K16. North Chapel Access": "K16. North Chapel Access",
+        "K23. Servants' Entrance": "K23. Servants' Entrance",
+        "K22. North Archers' Post": "K22. North Archers' Post",
+        "K15. Chapel": "K15. Chapel",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K34. Servants' Upper Floor": "K34. Servants' Upper Floor",
+        "K63. Wine Cellar": "K63. Wine Cellar",
+        "K31a. Elevator Shaft": "K31a. Elevator Shaft",
+        "K25. Audience Hall": "K25. Audience Hall",
+        "K24. Servants' Quarters": "K24. Servants' Quarters",
+        "K21. South Tower Stair": "K21. South Tower Stair"
+      }
+    },
+    "oaqlcMZMx2muYZOY": {
+      "name": "Map 3: Main Floor (Player Version)",
+      "notes": {
+        "K19. Grand Landing": "K19. Grand Landing",
+        "K12. Turret Post": "K12. Turret Post",
+        "K13. Turret Post Access Hall": "K13. Turret Post Access Hall",
+        "K11. South Archers' Post": "K11. South Archers' Post",
+        "K10. Dining Hall": "K10. Dining Hall",
+        "K25. Audience Hall": "K25. Audience Hall",
+        "K22. North Archers' Post": "K22. North Archers' Post",
+        "K83. Spiral Stair": "K83. Spiral Stair",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K31a. Elevator Shaft": "K31a. Elevator Shaft",
+        "K8. Great Entry": "K8. Great Entry",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K7. Entry": "K7. Entry",
+        "K64. Guards' Stair": "K64. Guards' Stair",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K14. Hall of Faith": "K14. Hall of Faith",
+        "K17. South Chapel Access": "K17. South Chapel Access",
+        "K16. North Chapel Access": "K16. North Chapel Access",
+        "K23. Servants' Entrance": "K23. Servants' Entrance",
+        "K29. Creaky Landing": "K29. Creaky Landing",
+        "K15. Chapel": "K15. Chapel",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K34. Servants' Upper Floor": "K34. Servants' Upper Floor",
+        "K63. Wine Cellar": "K63. Wine Cellar",
+        "K24. Servants' Quarters": "K24. Servants' Quarters",
+        "K20a. Tower Hall Stair": "K20a. Tower Hall Stair",
+        "K9. Guests' Hall": "K9. Guests' Hall"
+      }
+    },
+    "lE6jUZW14VAncKol": {
+      "name": "Map 4.1: The House of Lament",
+      "notes": {
+        "6. Sitting Room": "6. Sitting Room",
+        "7. Conservatory": "7. Conservatory",
+        "5a. Tower Base": "5a. Tower Base",
+        "2. Foyer": "2. Foyer",
+        "4. Gallery": "4. Gallery",
+        "3. Parlor": "3. Parlor",
+        "8. Ballroom": "8. Ballroom",
+        "9. First Floor Hall": "9. First Floor Hall",
+        "11. Dining Room": "11. Dining Room",
+        "10. Kitchen": "10. Kitchen",
+        "12. Music Room": "12. Music Room",
+        "21. Servants' Quarters": "21. Servants' Quarters",
+        "1. Porch": "1. Porch",
+        "22. Family Room": "22. Family Room",
+        "20. Third-Floor Hall": "20. Third-Floor Hall",
+        "23. Nursery": "23. Nursery",
+        "24. Children's Bedroom": "24. Children's Bedroom",
+        "5b. Tower Heights": "5b. Tower Heights",
+        "25. Widow's Walk": "25. Widow's Walk",
+        "26. Tower Chamber": "26. Tower Chamber",
+        "16. Master Bedroom": "16. Master Bedroom",
+        "15. Morning Room": "15. Morning Room",
+        "17. Master Bath": "17. Master Bath",
+        "14. Guest Bedrooms": "14. Guest Bedrooms",
+        "18. Office": "18. Office",
+        "13. Second-Floor Hall": "13. Second-Floor Hall",
+        "19. Exterior Balcony": "19. Exterior Balcony",
+        "27. Wine Cellar": "27. Wine Cellar",
+        "28. Storage": "28. Storage",
+        "30. Buried Tower": "30. Buried Tower",
+        "29. Buried Ruins": "29. Buried Ruins",
+        "31. Amber Cavity": "31. Amber Cavity"
+      },
+      "deltaTokens": {
+        "Beiro (bardo semielfo)": {
+          "name": "Beiro (bardo semielfo)"
+        },
+        "Vampire Spawn": {
+          "items": {
+            "Vampire Weakness": {
+              "name": "Vampire Weakness",
+              "description": "<div class=\"rd__b  rd__b--3\"><p>The vampire has these weaknesses:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Forbiddance\"><span class=\"bold rd__list-item-name\">Forbiddance.</span> The vampire can't enter a residence without an invitation from an occupant.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Running Water\"><span class=\"bold rd__list-item-name\">Running Water.</span> The vampire takes 20 Acid damage if it ends its turn in running water.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Stake to the Heart\"><span class=\"bold rd__list-item-name\">Stake to the Heart.</span> The vampire is destroyed if a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the &amp;Reference[condition=Incapacitated] condition.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Sunlight\"><span class=\"bold rd__list-item-name\">Sunlight.</span> The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has @variantrule[Disadvantage|XPHB] on attack rolls and ability checks.</p></li></ul></div>",
+              "activities": {
+                "Damage: Acid Damage": {
+                  "name": "Damage: Acid Damage"
+                },
+                "Damage: Radiant Damage": {
+                  "name": "Damage: Radiant Damage"
+                }
+              }
+            },
+            "Multiattack": {
+              "name": "Multiattack",
+              "description": "<div class=\"rd__b  rd__b--3\"><p>The vampire makes two Claw attacks and uses Bite.</p></div>"
+            },
+            "Bite": {
+              "name": "Bite",
+              "description": "<div class=\"rd__b  rd__b--3\"><p><i>Constitution Saving Throw:</i> DC <span class=\"rd__dc\">14</span>, one creature within 5 feet that is willing or that has the &amp;Reference[condition=Grappled], &amp;Reference[condition=Incapacitated], or &amp;Reference[condition=Restrained] condition. <i>Failure:</i> 5 ([[/damage 1d4 + 3 type=piercing]]) damage plus 10 ([[/damage 3d6 type=necrotic]]) damage. The target's @variantrule[Hit Points|XPHB|Hit Point] maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains @variantrule[Hit Points|XPHB] equal to that amount.</p></div>"
+            },
+            "Spider Climb": {
+              "name": "Spider Climb",
+              "description": "<div class=\"rd__b  rd__b--3\"><p>The vampire can climb difficult surfaces, including along ceilings, without needing to make an ability check.</p></div>"
+            },
+            "Deathless Agility": {
+              "name": "Deathless Agility",
+              "description": "<div class=\"rd__b  rd__b--3\"><p>The vampire takes the Dash or Disengage action.</p></div>"
+            }
+          },
+          "name": "Vampire Spawn"
+        },
+        "Egrath Stoneheart": {
+          "name": "Egrath Stoneheart"
+        },
+        "Yeleena Kolyana": {
+          "name": "Yeleena Kolyana"
+        },
+        "Seraphine": {
+          "name": "Seraphine"
+        },
+        "Théodhore Katsky": {
+          "name": "Théodhore Katsky"
+        }
+      }
+    },
+    "EE1WKskixUhGG3gP": {
+      "name": "Map 4.1: The House of Lament (Player Version)",
+      "notes": {
+        "7. Conservatory": "7. Conservatory",
+        "6. Sitting Room": "6. Sitting Room",
+        "5a. Tower Base": "5a. Tower Base",
+        "4. Gallery": "4. Gallery",
+        "2. Foyer": "2. Foyer",
+        "3. Parlor": "3. Parlor",
+        "8. Ballroom": "8. Ballroom",
+        "9. First Floor Hall": "9. First Floor Hall",
+        "10. Kitchen": "10. Kitchen",
+        "11. Dining Room": "11. Dining Room",
+        "12. Music Room": "12. Music Room",
+        "1. Porch": "1. Porch",
+        "21. Servants' Quarters": "21. Servants' Quarters",
+        "20. Third-Floor Hall": "20. Third-Floor Hall",
+        "22. Family Room": "22. Family Room",
+        "24. Children's Bedroom": "24. Children's Bedroom",
+        "5b. Tower Heights": "5b. Tower Heights",
+        "23. Nursery": "23. Nursery",
+        "25. Widow's Walk": "25. Widow's Walk",
+        "26. Tower Chamber": "26. Tower Chamber",
+        "16. Master Bedroom": "16. Master Bedroom",
+        "15. Morning Room": "15. Morning Room",
+        "17. Master Bath": "17. Master Bath",
+        "14. Guest Bedrooms": "14. Guest Bedrooms",
+        "18. Office": "18. Office",
+        "13. Second-Floor Hall": "13. Second-Floor Hall",
+        "19. Exterior Balcony": "19. Exterior Balcony",
+        "27. Wine Cellar": "27. Wine Cellar",
+        "28. Storage": "28. Storage",
+        "30. Buried Tower": "30. Buried Tower",
+        "29. Buried Ruins": "29. Buried Ruins",
+        "31. Amber Cavity": "31. Amber Cavity"
+      }
+    },
+    "47TO77u9OJieSjaq": {
+      "name": "Map 4: Court of the Count",
+      "notes": {
+        "K12. Turret Post": "K12. Turret Post",
+        "K22. North Archers' Post": "K22. North Archers' Post",
+        "Development": "Development",
+        "K25. Audience Hall": "K25. Audience Hall",
+        "Animated Halberds": "Animated Halberds",
+        "K13. Turret Post Access Hall": "K13. Turret Post Access Hall",
+        "K32. Maid in Hell": "K32. Maid in Hell",
+        "K30. King's Accountant": "K30. King's Accountant",
+        "K27. King's Hall": "K27. King's Hall",
+        "K31. Trapworks": "K31. Trapworks",
+        "K31a. Elevator Shaft": "K31a. Elevator Shaft",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K26. Guards' Post": "K26. Guards' Post",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K33. King's Apartment Stair": "K33. King's Apartment Stair",
+        "K34. Servants' Upper Floor": "K34. Servants' Upper Floor",
+        "K28. King's Balcony": "K28. King's Balcony",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K29. Creaky Landing": "K29. Creaky Landing",
+        "K83. Spiral Stair": "K83. Spiral Stair"
+      }
+    },
+    "IJcZITUcxWnnDT09": {
+      "name": "Map 4: Court of the Count (Player Version)",
+      "notes": {
+        "K12. Turret Post": "K12. Turret Post",
+        "K22. North Archers' Post": "K22. North Archers' Post",
+        "K13. Turret Post Access Hall": "K13. Turret Post Access Hall",
+        "Development": "Development",
+        "K25. Audience Hall": "K25. Audience Hall",
+        "K33. King's Apartment Stair": "K33. King's Apartment Stair",
+        "K26. Guards' Post": "K26. Guards' Post",
+        "K30. King's Accountant": "K30. King's Accountant",
+        "Animated Halberds": "Animated Halberds",
+        "K27. King's Hall": "K27. King's Hall",
+        "K31. Trapworks": "K31. Trapworks",
+        "K31a. Elevator Shaft": "K31a. Elevator Shaft",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K32. Maid in Hell": "K32. Maid in Hell",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K29. Creaky Landing": "K29. Creaky Landing",
+        "K28. King's Balcony": "K28. King's Balcony",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K34. Servants' Upper Floor": "K34. Servants' Upper Floor",
+        "K83. Spiral Stair": "K83. Spiral Stair"
+      }
+    },
+    "pDjsvdmD4FNwjHAB": {
+      "name": "Map 5.1: Vallaki (Area N)",
+      "notes": {
+        "N9. Vistani Camp": "N9. Vistani Camp",
+        "N1. St. Andral's Church": "N1. St. Andral's Church",
+        "N2. Blue Water Inn": "N2. Blue Water Inn",
+        "N3. Burgomaster's Mansion": "N3. Burgomaster's Mansion",
+        "N7. Blinsky Toys": "N7. Blinsky Toys",
+        "N5. Arasek Stockyard": "N5. Arasek Stockyard",
+        "N6. Coffin Maker's Shop": "N6. Coffin Maker's Shop",
+        "N4. Wachterhaus": "N4. Wachterhaus",
+        "N8. Town Square": "N8. Town Square"
+      }
+    },
+    "LLBMtZkoFrWEQxrZ": {
+      "name": "Map 5.1: Vallaki (Area N) (Player Version)",
+      "notes": {
+        "N9. Vistani Camp": "N9. Vistani Camp",
+        "N1. St. Andral's Church": "N1. St. Andral's Church",
+        "N2. Blue Water Inn": "N2. Blue Water Inn",
+        "N3. Burgomaster's Mansion": "N3. Burgomaster's Mansion",
+        "N7. Blinsky Toys": "N7. Blinsky Toys",
+        "N5. Arasek Stockyard": "N5. Arasek Stockyard",
+        "N4. Wachterhaus": "N4. Wachterhaus",
+        "N8. Town Square": "N8. Town Square",
+        "N6. Coffin Maker's Shop": "N6. Coffin Maker's Shop"
+      }
+    },
+    "FvXDzNuzP6KszPow": {
+      "name": "Map 5.2: Blue Water Inn (Area N2)",
+      "notes": {
+        "N2h. Ravens' Loft": "N2h. Ravens' Loft",
+        "N2p. Master Bedroom": "N2p. Master Bedroom",
+        "N2o. Boys' Bedroom": "N2o. Boys' Bedroom",
+        "N2j. Great Balcony": "N2j. Great Balcony",
+        "N2n. Private Guest Room": "N2n. Private Guest Room",
+        "N2m. Guest Room": "N2m. Guest Room",
+        "N2l. Guest Rooms": "N2l. Guest Rooms",
+        "N2e. Kitchen": "N2e. Kitchen",
+        "N2f. Stable": "N2f. Stable",
+        "N2i. Secret Stairs and Hall": "N2i. Secret Stairs and Hall",
+        "N2g. Storage": "N2g. Storage",
+        "N2d. Wine Storage": "N2d. Wine Storage",
+        "N2b. Outside Staircase": "N2b. Outside Staircase",
+        "N2k. Guest Balcony": "N2k. Guest Balcony",
+        "N2q. Secret Attic": "N2q. Secret Attic",
+        "N2c. Taproom": "N2c. Taproom",
+        "N2a. Well": "N2a. Well"
+      }
+    },
+    "gDxZGVLM6dNsiDEK": {
+      "name": "Map 5.2: Blue Water Inn (Area N2) (Player Version)",
+      "notes": {
+        "N2q. Secret Attic": "N2q. Secret Attic",
+        "N2p. Master Bedroom": "N2p. Master Bedroom",
+        "N2o. Boys' Bedroom": "N2o. Boys' Bedroom",
+        "N2j. Great Balcony": "N2j. Great Balcony",
+        "N2h. Ravens' Loft": "N2h. Ravens' Loft",
+        "N2m. Guest Room": "N2m. Guest Room",
+        "N2n. Private Guest Room": "N2n. Private Guest Room",
+        "N2l. Guest Rooms": "N2l. Guest Rooms",
+        "N2k. Guest Balcony": "N2k. Guest Balcony",
+        "N2i. Secret Stairs and Hall": "N2i. Secret Stairs and Hall",
+        "N2f. Stable": "N2f. Stable",
+        "N2g. Storage": "N2g. Storage",
+        "N2e. Kitchen": "N2e. Kitchen",
+        "N2d. Wine Storage": "N2d. Wine Storage",
+        "N2c. Taproom": "N2c. Taproom",
+        "N2b. Outside Staircase": "N2b. Outside Staircase",
+        "N2a. Well": "N2a. Well"
+      }
+    },
+    "4CnXFx9jnvnbVP07": {
+      "name": "Map 5.3: Burgomaster's Mansion (Area N3)",
+      "notes": {
+        "N3r. Attic Room": "N3r. Attic Room",
+        "N3t. Victor's Workroom": "N3t. Victor's Workroom",
+        "N3s. Attic Storage": "N3s. Attic Storage",
+        "N3o. Master Bedroom": "N3o. Master Bedroom",
+        "N3p. Bridal Gown and Spirit Mirror": "N3p. Bridal Gown and Spirit Mirror",
+        "N3q. Bathroom": "N3q. Bathroom",
+        "N3l. Library": "N3l. Library",
+        "N3j. Izek's Bedroom": "N3j. Izek's Bedroom",
+        "N3n. Master Bedroom Closet": "N3n. Master Bedroom Closet",
+        "N3m. Locked Closet": "N3m. Locked Closet",
+        "N3k. Victor's Bedroom": "N3k. Victor's Bedroom",
+        "N3i. Upstairs Gallery": "N3i. Upstairs Gallery",
+        "N3h. Pantry": "N3h. Pantry",
+        "N3g. Kitchen": "N3g. Kitchen",
+        "N3f. Servants' Quarters": "N3f. Servants' Quarters",
+        "N3a. Entrance Hall and Vestibule": "N3a. Entrance Hall and Vestibule",
+        "N3e. Den": "N3e. Den",
+        "N3d. Preparation Room": "N3d. Preparation Room",
+        "N3c. Dining Room": "N3c. Dining Room",
+        "N3b. Parlor": "N3b. Parlor"
+      }
+    },
+    "l8sKCYwStgtUiVtB": {
+      "name": "Map 5.3: Burgomaster's Mansion (Area N3) (Player Version)",
+      "notes": {
+        "N3r. Attic Room": "N3r. Attic Room",
+        "N3t. Victor's Workroom": "N3t. Victor's Workroom",
+        "N3s. Attic Storage": "N3s. Attic Storage",
+        "N3o. Master Bedroom": "N3o. Master Bedroom",
+        "N3q. Bathroom": "N3q. Bathroom",
+        "N3l. Library": "N3l. Library",
+        "N3j. Izek's Bedroom": "N3j. Izek's Bedroom",
+        "N3n. Master Bedroom Closet": "N3n. Master Bedroom Closet",
+        "N3m. Locked Closet": "N3m. Locked Closet",
+        "N3k. Victor's Bedroom": "N3k. Victor's Bedroom",
+        "N3i. Upstairs Gallery": "N3i. Upstairs Gallery",
+        "N3h. Pantry": "N3h. Pantry",
+        "N3g. Kitchen": "N3g. Kitchen",
+        "N3f. Servants' Quarters": "N3f. Servants' Quarters",
+        "N3a. Entrance Hall and Vestibule": "N3a. Entrance Hall and Vestibule",
+        "N3e. Den": "N3e. Den",
+        "N3d. Preparation Room": "N3d. Preparation Room",
+        "N3c. Dining Room": "N3c. Dining Room",
+        "N3b. Parlor": "N3b. Parlor",
+        "N3p. Bridal Gown and Spirit Mirror": "N3p. Bridal Gown and Spirit Mirror"
+      }
+    },
+    "T26wsQh216MreiVu": {
+      "name": "Map 5.4: Wachterhaus (Area N4)",
+      "notes": {
+        "N4m. Brothers' Rooms": "N4m. Brothers' Rooms",
+        "N4o. Master Bedroom": "N4o. Master Bedroom",
+        "N4l. Upstairs Hall": "N4l. Upstairs Hall",
+        "N4n. Stella's Room": "N4n. Stella's Room",
+        "N4q. Storage Room": "N4q. Storage Room",
+        "N4p. Library": "N4p. Library",
+        "N4h. Servants' Quarters": "N4h. Servants' Quarters",
+        "N4f. Servants' Closet": "N4f. Servants' Closet",
+        "N4e. Back Vestibule": "N4e. Back Vestibule",
+        "N4r. Cellar Entrance": "N4r. Cellar Entrance",
+        "N4b. Staircase": "N4b. Staircase",
+        "N4d. Storage Room": "N4d. Storage Room",
+        "N4g. Secret Staircase": "N4g. Secret Staircase",
+        "N4a. Front Door and Vestibule": "N4a. Front Door and Vestibule",
+        "N4c. Kitchen": "N4c. Kitchen",
+        "N4k. Den": "N4k. Den",
+        "N4i. Parlor": "N4i. Parlor",
+        "N4t. Cult Headquarters": "N4t. Cult Headquarters",
+        "N4j. Dining Room": "N4j. Dining Room",
+        "N4s. Cellar": "N4s. Cellar"
+      }
+    },
+    "OFDvWkXteDLSXsx3": {
+      "name": "Map 5.4: Wachterhaus (Area N4) (Player Version)",
+      "notes": {
+        "N4m. Brothers' Rooms": "N4m. Brothers' Rooms",
+        "N4o. Master Bedroom": "N4o. Master Bedroom",
+        "N4q. Storage Room": "N4q. Storage Room",
+        "N4p. Library": "N4p. Library",
+        "N4l. Upstairs Hall": "N4l. Upstairs Hall",
+        "N4n. Stella's Room": "N4n. Stella's Room",
+        "N4h. Servants' Quarters": "N4h. Servants' Quarters",
+        "N4f. Servants' Closet": "N4f. Servants' Closet",
+        "N4e. Back Vestibule": "N4e. Back Vestibule",
+        "N4d. Storage Room": "N4d. Storage Room",
+        "N4r. Cellar Entrance": "N4r. Cellar Entrance",
+        "N4b. Staircase": "N4b. Staircase",
+        "N4g. Secret Staircase": "N4g. Secret Staircase",
+        "N4a. Front Door and Vestibule": "N4a. Front Door and Vestibule",
+        "N4c. Kitchen": "N4c. Kitchen",
+        "N4k. Den": "N4k. Den",
+        "N4i. Parlor": "N4i. Parlor",
+        "N4t. Cult Headquarters": "N4t. Cult Headquarters",
+        "N4j. Dining Room": "N4j. Dining Room",
+        "N4s. Cellar": "N4s. Cellar"
+      }
+    },
+    "9UX0U7pf6GYtnr90": {
+      "name": "Map 5.5: Coffin Maker's Shop (Area N6)",
+      "notes": {
+        "N6c. Workshop": "N6c. Workshop",
+        "N6e. Henrik's Bedroom": "N6e. Henrik's Bedroom",
+        "N6d. Kitchen": "N6d. Kitchen",
+        "N6a. Coffin Storage": "N6a. Coffin Storage",
+        "N6f. Vampire Nest": "N6f. Vampire Nest"
+      }
+    },
+    "ItvKtWPMIjGyV6jv": {
+      "name": "Map 5.5: Coffin Maker's Shop (Area N6) (Player Version)",
+      "notes": {
+        "N6e. Henrik's Bedroom": "N6e. Henrik's Bedroom",
+        "N6c. Workshop": "N6c. Workshop",
+        "N6d. Kitchen": "N6d. Kitchen",
+        "N6a. Coffin Storage": "N6a. Coffin Storage",
+        "N6f. Vampire Nest": "N6f. Vampire Nest"
+      }
+    },
+    "I9MW7f5MuZwGopw5": {
+      "name": "Map 5.6: Vistani Camp (Area N9)",
+      "notes": {
+        "N9b. Dusk Elf Hovels": "N9b. Dusk Elf Hovels",
+        "N9a. Kasimir's Hovel": "N9a. Kasimir's Hovel",
+        "N9c. Vistani Tent": "N9c. Vistani Tent",
+        "N9i. Vistani Treasure Wagon": "N9i. Vistani Treasure Wagon",
+        "N9f. Wagon of Sleeping Vistani": "N9f. Wagon of Sleeping Vistani",
+        "N9h. Vistani Family Wagon": "N9h. Vistani Family Wagon",
+        "N9e. Luvash's Wagon": "N9e. Luvash's Wagon",
+        "N9g. Wagon of Gambling Vistani": "N9g. Wagon of Gambling Vistani",
+        "Dealing with Arrigal": "Dealing with Arrigal",
+        "N9d. Horses": "N9d. Horses"
+      }
+    },
+    "2QxLHtPPKKgAZ8fd": {
+      "name": "Map 5.6: Vistani Camp (Area N9) (Player Version)",
+      "notes": {
+        "N9b. Dusk Elf Hovels": "N9b. Dusk Elf Hovels",
+        "N9a. Kasimir's Hovel": "N9a. Kasimir's Hovel",
+        "N9c. Vistani Tent": "N9c. Vistani Tent",
+        "N9f. Wagon of Sleeping Vistani": "N9f. Wagon of Sleeping Vistani",
+        "N9h. Vistani Family Wagon": "N9h. Vistani Family Wagon",
+        "N9i. Vistani Treasure Wagon": "N9i. Vistani Treasure Wagon",
+        "N9g. Wagon of Gambling Vistani": "N9g. Wagon of Gambling Vistani",
+        "N9e. Luvash's Wagon": "N9e. Luvash's Wagon",
+        "N9d. Horses": "N9d. Horses",
+        "Dealing with Arrigal": "Dealing with Arrigal"
+      },
+      "deltaTokens": {
+        "Beiro (bardo semielfo)": {
+          "name": "Beiro (bardo semielfo)"
+        },
+        "Wolf": {
+          "items": {
+            "Pack Tactics": {
+              "name": "Pack Tactics",
+              "description": "<p>The [[lookup @name lowercase]] has Advantage on an attack roll against a creature if at least one of the [[lookup @name lowercase]]'s allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.</p>"
+            }
+          },
+          "name": "Wolf"
+        }
+      }
+    },
+    "DdiuEhoyqZFbeIjC": {
+      "name": "Map 5: Rooms of Weeping",
+      "notes": {
+        "K46. Parapets": "K46. Parapets",
+        "K44. Closet": "K44. Closet",
+        "K36. Dining Hall of the Count": "K36. Dining Hall of the Count",
+        "K64. Guards' Stair": "K64. Guards' Stair",
+        "K35. Guardian Vermin": "K35. Guardian Vermin",
+        "K43. Bath Chamber": "K43. Bath Chamber",
+        "K37. Study": "K37. Study",
+        "K42. King's Bedchamber": "K42. King's Bedchamber",
+        "K45. Hall of Heroes": "K45. Hall of Heroes",
+        "K13. Turret Post Access Hall": "K13. Turret Post Access Hall",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K41. Treasury": "K41. Treasury",
+        "K40. Belfry": "K40. Belfry",
+        "K38. False Treasury": "K38. False Treasury",
+        "K31a. Elevator Shaft": "K31a. Elevator Shaft",
+        "K31b. Shaft Access": "K31b. Shaft Access",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K83. Spiral Stair": "K83. Spiral Stair",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K39. Hall of Webs": "K39. Hall of Webs"
+      }
+    },
+    "v1LN4dUVFRxSw0bV": {
+      "name": "Map 5: Rooms of Weeping (Player Version)",
+      "notes": {
+        "K46. Parapets": "K46. Parapets",
+        "K43. Bath Chamber": "K43. Bath Chamber",
+        "K44. Closet": "K44. Closet",
+        "K36. Dining Hall of the Count": "K36. Dining Hall of the Count",
+        "K64. Guards' Stair": "K64. Guards' Stair",
+        "K35. Guardian Vermin": "K35. Guardian Vermin",
+        "K37. Study": "K37. Study",
+        "K45. Hall of Heroes": "K45. Hall of Heroes",
+        "K13. Turret Post Access Hall": "K13. Turret Post Access Hall",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K41. Treasury": "K41. Treasury",
+        "K40. Belfry": "K40. Belfry",
+        "K38. False Treasury": "K38. False Treasury",
+        "K31a. Elevator Shaft": "K31a. Elevator Shaft",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K42. King's Bedchamber": "K42. King's Bedchamber",
+        "K83. Spiral Stair": "K83. Spiral Stair",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K31b. Shaft Access": "K31b. Shaft Access",
+        "K39. Hall of Webs": "K39. Hall of Webs"
+      }
+    },
+    "gvnzqW4lf0oqa7b4": {
+      "name": "Map 6.1: Old Bonegrinder (Area O)",
+      "notes": {
+        "O1. Ground Floor": "O1. Ground Floor",
+        "O2. Bone Mill": "O2. Bone Mill",
+        "O3. Bedroom": "O3. Bedroom",
+        "O4. Domed Attic": "O4. Domed Attic"
+      }
+    },
+    "psSwHVeDy7wuLcbW": {
+      "name": "Map 6.1: Old Bonegrinder (Area O) (Player Version)",
+      "notes": {
+        "O1. Ground Floor": "O1. Ground Floor",
+        "O3. Bedroom": "O3. Bedroom",
+        "O4. Domed Attic": "O4. Domed Attic",
+        "O2. Bone Mill": "O2. Bone Mill"
+      }
+    },
+    "XWgK5X1k5lpUHxOZ": {
+      "name": "Map 6: Spires of Ravenloft",
+      "notes": {
+        "K49. Lounge": "K49. Lounge",
+        "K50. Guest Room": "K50. Guest Room",
+        "K53. Rooftop": "K53. Rooftop",
+        "K47. Portrait of Strahd": "K47. Portrait of Strahd",
+        "K51. Closet": "K51. Closet",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K52. Smokestack": "K52. Smokestack"
+      }
+    },
+    "8pRqD9eU99gOaJ13": {
+      "name": "Map 6: Spires of Ravenloft (Player Version)",
+      "notes": {
+        "K53. Rooftop": "K53. Rooftop",
+        "K49. Lounge": "K49. Lounge",
+        "K50. Guest Room": "K50. Guest Room",
+        "K47. Portrait of Strahd": "K47. Portrait of Strahd",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K52. Smokestack": "K52. Smokestack",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K51. Closet": "K51. Closet"
+      }
+    },
+    "NA4ggvo8A3QhRosN": {
+      "name": "Map 7.1: Argynvostholt (Area Q)",
+      "notes": {
+        "Q28. Knights' Quarters": "Q28. Knights' Quarters",
+        "Q27. Knights' Quarters": "Q27. Knights' Quarters",
+        "Q25. Trapped Hallway": "Q25. Trapped Hallway",
+        "Q29. Northwest Guest Room": "Q29. Northwest Guest Room",
+        "Q26. Northeast Guest Room": "Q26. Northeast Guest Room",
+        "Q17. West Staircases": "Q17. West Staircases",
+        "Q18. Balconies": "Q18. Balconies",
+        "Q19. Ruined Bedchambers": "Q19. Ruined Bedchambers",
+        "Q14. Chapel Staircases": "Q14. Chapel Staircases",
+        "Q24. Chapel Balcony": "Q24. Chapel Balcony",
+        "Q23. Storage Room": "Q23. Storage Room",
+        "Q22. Bathroom": "Q22. Bathroom",
+        "Q21. North Alcove": "Q21. North Alcove",
+        "Q16. Dragon's Mausoleum": "Q16. Dragon's Mausoleum",
+        "Q7. Parlor": "Q7. Parlor",
+        "Q9. Servants' Quarters": "Q9. Servants' Quarters",
+        "Q8. Iron Gate": "Q8. Iron Gate",
+        "Q6. Dragon's Den": "Q6. Dragon's Den",
+        "Q11. Wine Storage": "Q11. Wine Storage",
+        "Q10. Kitchen": "Q10. Kitchen",
+        "Q2. Main Entrance": "Q2. Main Entrance",
+        "Q1. Dragon Statue": "Q1. Dragon Statue",
+        "Q3. Dragon's Foyer": "Q3. Dragon's Foyer",
+        "Q12. Dining Hall": "Q12. Dining Hall",
+        "Q13. Chapel of Morning": "Q13. Chapel of Morning",
+        "Q5. Ruined Stable": "Q5. Ruined Stable",
+        "Q15. Cemetery": "Q15. Cemetery",
+        "Q4. Spiders' Ballroom": "Q4. Spiders' Ballroom"
+      }
+    },
+    "bXtG7aJDN7fIQXSE": {
+      "name": "Map 7.1: Argynvostholt (Area Q) (Player Version)",
+      "notes": {
+        "Q28. Knights' Quarters": "Q28. Knights' Quarters",
+        "Q27. Knights' Quarters": "Q27. Knights' Quarters",
+        "Q25. Trapped Hallway": "Q25. Trapped Hallway",
+        "Q29. Northwest Guest Room": "Q29. Northwest Guest Room",
+        "Q26. Northeast Guest Room": "Q26. Northeast Guest Room",
+        "Q18. Balconies": "Q18. Balconies",
+        "Q17. West Staircases": "Q17. West Staircases",
+        "Q19. Ruined Bedchambers": "Q19. Ruined Bedchambers",
+        "Q14. Chapel Staircases": "Q14. Chapel Staircases",
+        "Q24. Chapel Balcony": "Q24. Chapel Balcony",
+        "Q23. Storage Room": "Q23. Storage Room",
+        "Q22. Bathroom": "Q22. Bathroom",
+        "Q21. North Alcove": "Q21. North Alcove",
+        "Q16. Dragon's Mausoleum": "Q16. Dragon's Mausoleum",
+        "Q7. Parlor": "Q7. Parlor",
+        "Q9. Servants' Quarters": "Q9. Servants' Quarters",
+        "Q6. Dragon's Den": "Q6. Dragon's Den",
+        "Q11. Wine Storage": "Q11. Wine Storage",
+        "Q8. Iron Gate": "Q8. Iron Gate",
+        "Q10. Kitchen": "Q10. Kitchen",
+        "Q2. Main Entrance": "Q2. Main Entrance",
+        "Q1. Dragon Statue": "Q1. Dragon Statue",
+        "Q3. Dragon's Foyer": "Q3. Dragon's Foyer",
+        "Q12. Dining Hall": "Q12. Dining Hall",
+        "Q13. Chapel of Morning": "Q13. Chapel of Morning",
+        "Q5. Ruined Stable": "Q5. Ruined Stable",
+        "Q4. Spiders' Ballroom": "Q4. Spiders' Ballroom",
+        "Q15. Cemetery": "Q15. Cemetery"
+      }
+    },
+    "kd0CUX76DbYbzBM3": {
+      "name": "Map 7.2: Argynvostholt (Area Q) - Rooftop and Beacon",
+      "notes": {
+        "Q45. Ancient Ballista": "Q45. Ancient Ballista",
+        "Q47. Roof Turrets": "Q47. Roof Turrets",
+        "Q43. Hole in Roof": "Q43. Hole in Roof",
+        "Q48. Roof's Edge": "Q48. Roof's Edge",
+        "Q44. Dragon Gargoyle": "Q44. Dragon Gargoyle",
+        "Q52. Beacon Turrets": "Q52. Beacon Turrets",
+        "Q31. East Staircases": "Q31. East Staircases",
+        "Q46. Destroyed Ballista": "Q46. Destroyed Ballista",
+        "Q50. Beacon, Lower Landing": "Q50. Beacon, Lower Landing",
+        "Q49. Beacon Tower Door": "Q49. Beacon Tower Door",
+        "Q53. Beacon of Argynvostholt": "Q53. Beacon of Argynvostholt",
+        "Q51. Beacon, Upper Landing": "Q51. Beacon, Upper Landing",
+        "Q38. Closet": "Q38. Closet",
+        "Q30. Curtained Staircase": "Q30. Curtained Staircase",
+        "Q32. Ruined Bedchambers": "Q32. Ruined Bedchambers",
+        "Q14. Chapel Staircases": "Q14. Chapel Staircases",
+        "Q41. Dragon's Vault": "Q41. Dragon's Vault",
+        "Q37. Knights of the Order": "Q37. Knights of the Order",
+        "Q39. Vladimir's Bedroom": "Q39. Vladimir's Bedroom",
+        "Q42. Argynvost's Bedroom": "Q42. Argynvost's Bedroom",
+        "Q40. Argynvost's Study": "Q40. Argynvost's Study",
+        "Q34. Ruined Bathroom": "Q34. Ruined Bathroom",
+        "Q35. Upstairs Gallery": "Q35. Upstairs Gallery",
+        "Q33. Collapsed Ceiling": "Q33. Collapsed Ceiling",
+        "Q36. Dragon's Audience Hall": "Q36. Dragon's Audience Hall"
+      }
+    },
+    "svKlOZFokjYXaISd": {
+      "name": "Map 7.2: Argynvostholt (Area Q) - Rooftop and Beacon (Player Version)",
+      "notes": {
+        "Q45. Ancient Ballista": "Q45. Ancient Ballista",
+        "Q47. Roof Turrets": "Q47. Roof Turrets",
+        "Q43. Hole in Roof": "Q43. Hole in Roof",
+        "Q44. Dragon Gargoyle": "Q44. Dragon Gargoyle",
+        "Q48. Roof's Edge": "Q48. Roof's Edge",
+        "Q46. Destroyed Ballista": "Q46. Destroyed Ballista",
+        "Q50. Beacon, Lower Landing": "Q50. Beacon, Lower Landing",
+        "Q52. Beacon Turrets": "Q52. Beacon Turrets",
+        "Q31. East Staircases": "Q31. East Staircases",
+        "Q53. Beacon of Argynvostholt": "Q53. Beacon of Argynvostholt",
+        "Q51. Beacon, Upper Landing": "Q51. Beacon, Upper Landing",
+        "Q30. Curtained Staircase": "Q30. Curtained Staircase",
+        "Q49. Beacon Tower Door": "Q49. Beacon Tower Door",
+        "Q32. Ruined Bedchambers": "Q32. Ruined Bedchambers",
+        "Q14. Chapel Staircases": "Q14. Chapel Staircases",
+        "Q38. Closet": "Q38. Closet",
+        "Q39. Vladimir's Bedroom": "Q39. Vladimir's Bedroom",
+        "Q40. Argynvost's Study": "Q40. Argynvost's Study",
+        "Q41. Dragon's Vault": "Q41. Dragon's Vault",
+        "Q37. Knights of the Order": "Q37. Knights of the Order",
+        "Q34. Ruined Bathroom": "Q34. Ruined Bathroom",
+        "Q42. Argynvost's Bedroom": "Q42. Argynvost's Bedroom",
+        "Q33. Collapsed Ceiling": "Q33. Collapsed Ceiling",
+        "Q35. Upstairs Gallery": "Q35. Upstairs Gallery",
+        "Q36. Dragon's Audience Hall": "Q36. Dragon's Audience Hall"
+      }
+    },
+    "zNenJaIcQdGrxvYM": {
+      "name": "Map 8.1: The Village of Krezk (Area S)",
+      "notes": {
+        "S4. Pool and Shrine": "S4. Pool and Shrine",
+        "S5. Winding Road": "S5. Winding Road",
+        "S3. Village of Krezk": "S3. Village of Krezk",
+        "S1. Road Junction": "S1. Road Junction",
+        "S2. Gatehouse": "S2. Gatehouse"
+      }
+    },
+    "tySvUMtN5V2F0OzK": {
+      "name": "Map 8.1: The Village of Krezk (Area S) (Player Version)",
+      "notes": {
+        "S3. Village of Krezk": "S3. Village of Krezk",
+        "S4. Pool and Shrine": "S4. Pool and Shrine",
+        "S1. Road Junction": "S1. Road Junction",
+        "S5. Winding Road": "S5. Winding Road",
+        "S2. Gatehouse": "S2. Gatehouse"
+      }
+    },
+    "y86ycpcTSYpQe6KT": {
+      "name": "Map 8.2: Abbey of Saint Markovia - Ground Floor",
+      "notes": {
+        "S13. Main Hall": "S13. Main Hall",
+        "S6. North Gate": "S6. North Gate",
+        "S7. Graveyard": "S7. Graveyard",
+        "Sun's Grave": "Sun's Grave",
+        "S12c. Chicken Sheds": "S12c. Chicken Sheds",
+        "S5. Winding Road": "S5. Winding Road",
+        "S11. Inner Gatehouses": "S11. Inner Gatehouses",
+        "S12b. Old Troughs": "S12b. Old Troughs",
+        "S10. Abbey Entrance": "S10. Abbey Entrance",
+        "S12. Courtyard": "S12. Courtyard",
+        "S12a. Well": "S12a. Well",
+        "S12d. Tethering Posts": "S12d. Tethering Posts",
+        "S8. Garden Gatehouse": "S8. Garden Gatehouse",
+        "S9. Gardens": "S9. Gardens",
+        "S15. Madhouse": "S15. Madhouse",
+        "S14. Foyer": "S14. Foyer",
+        "S15a. Fearful Mongrelfolk": "S15a. Fearful Mongrelfolk",
+        "S15b. Quarreling Mongrelfolk": "S15b. Quarreling Mongrelfolk",
+        "S15c. Incanting Mongrelfolk": "S15c. Incanting Mongrelfolk",
+        "S15d. Hungry Mongrelfolk": "S15d. Hungry Mongrelfolk",
+        "S15h. Mongrelfolk Fort": "S15h. Mongrelfolk Fort",
+        "S15f. Singing and Dancing Mongrelfolk": "S15f. Singing and Dancing Mongrelfolk",
+        "S15e. Mongrelfolk Horde": "S15e. Mongrelfolk Horde",
+        "S15g. Mongrelfolk Babies": "S15g. Mongrelfolk Babies"
+      }
+    },
+    "7QgNWeTHh4turOHG": {
+      "name": "Map 8.2: Abbey of Saint Markovia - Ground Floor (Player Version)",
+      "notes": {
+        "S13. Main Hall": "S13. Main Hall",
+        "S6. North Gate": "S6. North Gate",
+        "S7. Graveyard": "S7. Graveyard",
+        "Sun's Grave": "Sun's Grave",
+        "S5. Winding Road": "S5. Winding Road",
+        "S12c. Chicken Sheds": "S12c. Chicken Sheds",
+        "S11. Inner Gatehouses": "S11. Inner Gatehouses",
+        "S10. Abbey Entrance": "S10. Abbey Entrance",
+        "S12b. Old Troughs": "S12b. Old Troughs",
+        "S12. Courtyard": "S12. Courtyard",
+        "S15. Madhouse": "S15. Madhouse",
+        "S8. Garden Gatehouse": "S8. Garden Gatehouse",
+        "S12d. Tethering Posts": "S12d. Tethering Posts",
+        "S15a. Fearful Mongrelfolk": "S15a. Fearful Mongrelfolk",
+        "S14. Foyer": "S14. Foyer",
+        "S9. Gardens": "S9. Gardens",
+        "S12a. Well": "S12a. Well",
+        "S15c. Incanting Mongrelfolk": "S15c. Incanting Mongrelfolk",
+        "S15d. Hungry Mongrelfolk": "S15d. Hungry Mongrelfolk",
+        "S15h. Mongrelfolk Fort": "S15h. Mongrelfolk Fort",
+        "S15b. Quarreling Mongrelfolk": "S15b. Quarreling Mongrelfolk",
+        "S15g. Mongrelfolk Babies": "S15g. Mongrelfolk Babies",
+        "S15f. Singing and Dancing Mongrelfolk": "S15f. Singing and Dancing Mongrelfolk",
+        "S15e. Mongrelfolk Horde": "S15e. Mongrelfolk Horde"
+      }
+    },
+    "fxwNlAAelNmEcZip": {
+      "name": "Map 8.3: Abbey of Saint Markovia - Upper Floor & Cellar",
+      "notes": {
+        "S17. Loft and Belfry": "S17. Loft and Belfry",
+        "S16. Wine Cellar": "S16. Wine Cellar",
+        "S20. Upstairs Office": "S20. Upstairs Office",
+        "S21. Haunted Hospital": "S21. Haunted Hospital",
+        "S22. Operating Room": "S22. Operating Room",
+        "Fortunes of Ravenloft": "Fortunes of Ravenloft",
+        "S24. Morgue": "S24. Morgue",
+        "S19. Barracks": "S19. Barracks",
+        "S18. Curtain Wall": "S18. Curtain Wall"
+      }
+    },
+    "YBNFjOjAOpxootep": {
+      "name": "Map 8.3: Abbey of Saint Markovia - Upper Floor & Cellar (Player Version)",
+      "notes": {
+        "S16. Wine Cellar": "S16. Wine Cellar",
+        "S21. Haunted Hospital": "S21. Haunted Hospital",
+        "S22. Operating Room": "S22. Operating Room",
+        "S17. Loft and Belfry": "S17. Loft and Belfry",
+        "S20. Upstairs Office": "S20. Upstairs Office",
+        "S19. Barracks": "S19. Barracks",
+        "S24. Morgue": "S24. Morgue",
+        "S18. Curtain Wall": "S18. Curtain Wall",
+        "Fortunes of Ravenloft": "Fortunes of Ravenloft"
+      }
+    },
+    "71la1TnABvJVQFBc": {
+      "name": "Map 9.1: Tsolenka Pass (Area T)",
+      "notes": {
+        "T9. Eastern Arch": "T9. Eastern Arch",
+        "T8. Stone Bridge": "T8. Stone Bridge",
+        "T7. Western Arch": "T7. Western Arch",
+        "T1. Gatehouse Portcullis": "T1. Gatehouse Portcullis",
+        "T3. Curtain of Green Flame": "T3. Curtain of Green Flame",
+        "T2. Demon Statues": "T2. Demon Statues",
+        "T4. Guard Tower, Ground Floor": "T4. Guard Tower, Ground Floor",
+        "T5. Guard Tower, Upper Floor": "T5. Guard Tower, Upper Floor",
+        "T6. Guard Tower Rooftop": "T6. Guard Tower Rooftop"
+      }
+    },
+    "FLs6IsnRjcwizD3P": {
+      "name": "Map 9.1: Tsolenka Pass (Area T) (Player Version)",
+      "notes": {
+        "T9. Eastern Arch": "T9. Eastern Arch",
+        "T8. Stone Bridge": "T8. Stone Bridge",
+        "T7. Western Arch": "T7. Western Arch",
+        "T3. Curtain of Green Flame": "T3. Curtain of Green Flame",
+        "T2. Demon Statues": "T2. Demon Statues",
+        "T4. Guard Tower, Ground Floor": "T4. Guard Tower, Ground Floor",
+        "T5. Guard Tower, Upper Floor": "T5. Guard Tower, Upper Floor",
+        "T1. Gatehouse Portcullis": "T1. Gatehouse Portcullis",
+        "T6. Guard Tower Rooftop": "T6. Guard Tower Rooftop"
+      }
+    },
+    "6KoAid4lovNvGYLa": {
+      "name": "Map B.1: Death House",
+      "notes": {
+        "12. Master Suite": "12. Master Suite",
+        "13. Bathroom": "13. Bathroom",
+        "15. Nursemaid's Suite": "15. Nursemaid's Suite",
+        "14. Storage Room": "14. Storage Room",
+        "4. Kitchen and Pantry": "4. Kitchen and Pantry",
+        "5. Dining Room": "5. Dining Room",
+        "3. Den of Wolves": "3. Den of Wolves",
+        "19. Spare Bedroom": "19. Spare Bedroom",
+        "20. Children's Room": "20. Children's Room",
+        "18. Storage Room": "18. Storage Room",
+        "21. Secret Stairs": "21. Secret Stairs",
+        "1. Entrance": "1. Entrance",
+        "16. Attic Hall": "16. Attic Hall",
+        "2. Main Hall": "2. Main Hall",
+        "17. Spare Bedroom": "17. Spare Bedroom",
+        "7. Servants' Room": "7. Servants' Room",
+        "6. Upper Hall": "6. Upper Hall",
+        "10. Conservatory": "10. Conservatory",
+        "25. Well and Cultist Quarters": "25. Well and Cultist Quarters",
+        "24. Cult Initiates' Quarters": "24. Cult Initiates' Quarters",
+        "23E. Rose's Crypt": "23E. Rose's Crypt",
+        "23F. Thorn's Crypt": "23F. Thorn's Crypt",
+        "8. Library": "8. Library",
+        "23D. Elisabeth's Crypt": "23D. Elisabeth's Crypt",
+        "23C. Gustav's Crypt": "23C. Gustav's Crypt",
+        "23B. Walter's Crypt": "23B. Walter's Crypt",
+        "23A. Empty Crypt": "23A. Empty Crypt",
+        "23. Family Crypts": "23. Family Crypts",
+        "22. Dungeon Level Access": "22. Dungeon Level Access",
+        "27. Dining Hall": "27. Dining Hall",
+        "11. Balcony": "11. Balcony",
+        "26. Hidden Spiked Pit": "26. Hidden Spiked Pit",
+        "35. Reliquary": "35. Reliquary",
+        "30. Stairs Down": "30. Stairs Down",
+        "33. Cult Leaders' Den": "33. Cult Leaders' Den",
+        "34. Cult Leaders' Quarters": "34. Cult Leaders' Quarters",
+        "31. Darklord's Shrine": "31. Darklord's Shrine",
+        "32. Hidden Trapdoor": "32. Hidden Trapdoor",
+        "9. Secret Room": "9. Secret Room",
+        "29. Ghoulish Encounter": "29. Ghoulish Encounter",
+        "28. Larder": "28. Larder",
+        "36. Prison": "36. Prison",
+        "38. Ritual Chamber": "38. Ritual Chamber",
+        "37. Portcullis": "37. Portcullis"
+      }
+    },
+    "umZuWjvLdqdefi77": {
+      "name": "Map B.1: Death House (Player Version)",
+      "notes": {
+        "12. Master Suite": "12. Master Suite",
+        "11. Balcony": "11. Balcony",
+        "14. Storage Room": "14. Storage Room",
+        "13. Bathroom": "13. Bathroom",
+        "15. Nursemaid's Suite": "15. Nursemaid's Suite",
+        "1. Entrance": "1. Entrance",
+        "3. Den of Wolves": "3. Den of Wolves",
+        "5. Dining Room": "5. Dining Room",
+        "19. Spare Bedroom": "19. Spare Bedroom",
+        "4. Kitchen and Pantry": "4. Kitchen and Pantry",
+        "2. Main Hall": "2. Main Hall",
+        "20. Children's Room": "20. Children's Room",
+        "21. Secret Stairs": "21. Secret Stairs",
+        "18. Storage Room": "18. Storage Room",
+        "16. Attic Hall": "16. Attic Hall",
+        "17. Spare Bedroom": "17. Spare Bedroom",
+        "8. Library": "8. Library",
+        "9. Secret Room": "9. Secret Room",
+        "7. Servants' Room": "7. Servants' Room",
+        "6. Upper Hall": "6. Upper Hall",
+        "10. Conservatory": "10. Conservatory",
+        "25. Well and Cultist Quarters": "25. Well and Cultist Quarters",
+        "24. Cult Initiates' Quarters": "24. Cult Initiates' Quarters",
+        "23E. Rose's Crypt": "23E. Rose's Crypt",
+        "23. Family Crypts": "23. Family Crypts",
+        "23B. Walter's Crypt": "23B. Walter's Crypt",
+        "23C. Gustav's Crypt": "23C. Gustav's Crypt",
+        "23F. Thorn's Crypt": "23F. Thorn's Crypt",
+        "23A. Empty Crypt": "23A. Empty Crypt",
+        "23D. Elisabeth's Crypt": "23D. Elisabeth's Crypt",
+        "22. Dungeon Level Access": "22. Dungeon Level Access",
+        "27. Dining Hall": "27. Dining Hall",
+        "28. Larder": "28. Larder",
+        "26. Hidden Spiked Pit": "26. Hidden Spiked Pit",
+        "30. Stairs Down": "30. Stairs Down",
+        "29. Ghoulish Encounter": "29. Ghoulish Encounter",
+        "33. Cult Leaders' Den": "33. Cult Leaders' Den",
+        "35. Reliquary": "35. Reliquary",
+        "34. Cult Leaders' Quarters": "34. Cult Leaders' Quarters",
+        "31. Darklord's Shrine": "31. Darklord's Shrine",
+        "32. Hidden Trapdoor": "32. Hidden Trapdoor",
+        "36. Prison": "36. Prison",
+        "38. Ritual Chamber": "38. Ritual Chamber",
+        "37. Portcullis": "37. Portcullis"
+      }
+    },
+    "2EitvZejYMxTVtuL": {
+      "name": "Map: Elevator Trap",
+      "notes": {
+        "K47. Portrait of Strahd": "K47. Portrait of Strahd",
+        "K31b. Shaft Access": "K31b. Shaft Access",
+        "K31a. Elevator Shaft": "K31a. Elevator Shaft",
+        "K31. Trapworks": "K31. Trapworks",
+        "K61. Elevator Trap": "K61. Elevator Trap"
+      }
+    },
+    "Jn6p4Je74C80E94u": {
+      "name": "Map: Elevator Trap (Player Version)",
+      "notes": {
+        "K47. Portrait of Strahd": "K47. Portrait of Strahd",
+        "K31a. Elevator Shaft": "K31a. Elevator Shaft",
+        "K31b. Shaft Access": "K31b. Shaft Access",
+        "K31. Trapworks": "K31. Trapworks",
+        "K61. Elevator Trap": "K61. Elevator Trap"
+      }
+    },
+    "Ys7DI8ZiXODO4qPG": {
+      "name": "Map: Traps in Area K73",
+      "notes": {
+        "K75d. Dead Dwarf": "K75d. Dead Dwarf",
+        "K74h. Lost Sword": "K74h. Lost Sword",
+        "K74e. End of the Ride": "K74e. End of the Ride",
+        "K74a. Forgotten Treasure": "K74a. Forgotten Treasure",
+        "K74c. Rotting Corpse": "K74c. Rotting Corpse"
+      }
+    },
+    "owLsu4qzLDQeAieM": {
+      "name": "Maps 7-10: Spires and Tower of Ravenloft",
+      "notes": {
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K59. High Tower Peak": "K59. High Tower Peak",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K60. North Tower Peak": "K60. North Tower Peak",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K57. Tower Roof": "K57. Tower Roof",
+        "K48. Offstair": "K48. Offstair",
+        "K58. Bridge": "K58. Bridge",
+        "K54. Familiar Room": "K54. Familiar Room",
+        "K55. Element Room": "K55. Element Room",
+        "K47. Portrait of Strahd": "K47. Portrait of Strahd",
+        "K60a. North Tower Rooftop": "K60a. North Tower Rooftop",
+        "K56. Cauldron": "K56. Cauldron"
+      }
+    },
+    "qFZghzOudxjkgoAh": {
+      "name": "Maps 7-10: Spires and Tower of Ravenloft (Player Version)",
+      "notes": {
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K59. High Tower Peak": "K59. High Tower Peak",
+        "K60a. North Tower Rooftop": "K60a. North Tower Rooftop",
+        "K60. North Tower Peak": "K60. North Tower Peak",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K58. Bridge": "K58. Bridge",
+        "K48. Offstair": "K48. Offstair",
+        "K56. Cauldron": "K56. Cauldron",
+        "K55. Element Room": "K55. Element Room",
+        "K47. Portrait of Strahd": "K47. Portrait of Strahd",
+        "K57. Tower Roof": "K57. Tower Roof",
+        "K54. Familiar Room": "K54. Familiar Room"
+      }
+    },
+    "xSQahhAdANvL2FZr": {
+      "name": "Rooms of Weeping (Battlemap; DM Version)",
+      "notes": {
+        "K45. Hall of Heroes": "K45. Hall of Heroes",
+        "K83. Spiral Stair": "K83. Spiral Stair",
+        "K42. King's Bedchamber": "K42. King's Bedchamber",
+        "K46. Parapets": "K46. Parapets",
+        "K38. False Treasury": "K38. False Treasury",
+        "K37. Study": "K37. Study",
+        "K39. Hall of Webs": "K39. Hall of Webs",
+        "K36. Dining Hall of the Count": "K36. Dining Hall of the Count",
+        "K44. Closet": "K44. Closet",
+        "K31b. Shaft Access": "K31b. Shaft Access",
+        "K41. Treasury": "K41. Treasury",
+        "K64. Guards' Stair": "K64. Guards' Stair",
+        "K40. Belfry": "K40. Belfry",
+        "K43. Bath Chamber": "K43. Bath Chamber",
+        "K31a. Elevator Shaft": "K31a. Elevator Shaft",
+        "K35. Guardian Vermin": "K35. Guardian Vermin",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K21. South Tower Stair": "K21. South Tower Stair"
+      }
+    },
+    "LttYZE3tedq4qQyb": {
+      "name": "Rooms of Weeping (Battlemap; Player Version)",
+      "notes": {
+        "K83. Spiral Stair": "K83. Spiral Stair",
+        "K45. Hall of Heroes": "K45. Hall of Heroes",
+        "K38. False Treasury": "K38. False Treasury",
+        "K37. Study": "K37. Study",
+        "K42. King's Bedchamber": "K42. King's Bedchamber",
+        "K39. Hall of Webs": "K39. Hall of Webs",
+        "K31b. Shaft Access": "K31b. Shaft Access",
+        "K41. Treasury": "K41. Treasury",
+        "K40. Belfry": "K40. Belfry",
+        "K36. Dining Hall of the Count": "K36. Dining Hall of the Count",
+        "K44. Closet": "K44. Closet",
+        "K43. Bath Chamber": "K43. Bath Chamber",
+        "K64. Guards' Stair": "K64. Guards' Stair",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K31a. Elevator Shaft": "K31a. Elevator Shaft",
+        "K46. Parapets": "K46. Parapets",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K35. Guardian Vermin": "K35. Guardian Vermin",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft"
+      }
+    },
+    "JFUWiu463H6ipW3L": {
+      "name": "Spires and Tower of Ravenloft (Battlemap; DM Version)",
+      "notes": {
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K48. Offstair": "K48. Offstair",
+        "K54. Familiar Room": "K54. Familiar Room",
+        "K55. Element Room": "K55. Element Room",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K58. Bridge": "K58. Bridge",
+        "K57. Tower Roof": "K57. Tower Roof",
+        "K60a. North Tower Rooftop": "K60a. North Tower Rooftop",
+        "K56. Cauldron": "K56. Cauldron",
+        "K59. High Tower Peak": "K59. High Tower Peak",
+        "K60. North Tower Peak": "K60. North Tower Peak",
+        "K53. Rooftop": "K53. Rooftop",
+        "K52. Smokestack": "K52. Smokestack",
+        "K47. Portrait of Strahd": "K47. Portrait of Strahd",
+        "K50. Guest Room": "K50. Guest Room",
+        "K49. Lounge": "K49. Lounge",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K51. Closet": "K51. Closet"
+      }
+    },
+    "DAeGw2eUWLzyFlT2": {
+      "name": "Spires and Tower of Ravenloft (Battlemap; Player Version)",
+      "notes": {
+        "K48. Offstair": "K48. Offstair",
+        "K56. Cauldron": "K56. Cauldron",
+        "K18a. High Tower Shaft": "K18a. High Tower Shaft",
+        "K18. High Tower Staircase": "K18. High Tower Staircase",
+        "K20. Heart of Sorrow": "K20. Heart of Sorrow",
+        "K54. Familiar Room": "K54. Familiar Room",
+        "K58. Bridge": "K58. Bridge",
+        "K57. Tower Roof": "K57. Tower Roof",
+        "K55. Element Room": "K55. Element Room",
+        "K60a. North Tower Rooftop": "K60a. North Tower Rooftop",
+        "K60. North Tower Peak": "K60. North Tower Peak",
+        "K59. High Tower Peak": "K59. High Tower Peak",
+        "K53. Rooftop": "K53. Rooftop",
+        "K52. Smokestack": "K52. Smokestack",
+        "K50. Guest Room": "K50. Guest Room",
+        "K47. Portrait of Strahd": "K47. Portrait of Strahd",
+        "K21. South Tower Stair": "K21. South Tower Stair",
+        "K51. Closet": "K51. Closet",
+        "K49. Lounge": "K49. Lounge"
+      }
+    },
+    "Y5LVZe455zesKxxz": {
+      "name": "Walls of Ravenloft (Battlemap; DM Version)",
+      "notes": {
+        "K6. Overlook": "K6. Overlook",
+        "K5. Chapel Garden": "K5. Chapel Garden",
+        "K4. Carriage House": "K4. Carriage House",
+        "K3. Servants' Courtyard": "K3. Servants' Courtyard",
+        "K1. Front Courtyard": "K1. Front Courtyard",
+        "K2. Center Court Gate": "K2. Center Court Gate"
+      },
+      "deltaTokens": {
+        "Vampire Spawn": {
+          "items": {
+            "Spider Climb": {
+              "name": "Spider Climb",
+              "description": "<p>The [[lookup @name lowercase]] can climb difficult surfaces, including along ceilings, without needing to make an ability check.</p>"
+            },
+            "Multiattack": {
+              "name": "Multiattack",
+              "description": "<p>The [[lookup @name lowercase]] makes two [[/item .mmClaw0000000000]] attacks and uses [[/item .mmBite0000000000]].</p>",
+              "activities": {
+                "Use": {
+                  "name": "Use"
+                }
+              }
+            },
+            "Deathless Agility": {
+              "name": "Deathless Agility",
+              "description": "<p class=\"feature\">The [[lookup @name lowercase]] takes the &amp;Reference[Dash] or &amp;Reference[Disengage] action.</p>",
+              "activities": {
+                "Expend Use": {
+                  "name": "Expend Use"
+                }
+              }
+            },
+            "Vampire Weakness": {
+              "name": "Vampire Weakness",
+              "description": "<p class=\"feature\">The [[lookup @name lowercase]] has these weaknesses:</p><p class=\"feature-trait\"><strong>Forbiddance.</strong> The [[lookup @name lowercase]] can't enter a residence without an invitation from an occupant.</p><p class=\"feature-trait\"><strong>Running Water.</strong> The [[lookup @name lowercase]] takes 20 Acid damage if it ends its turn in running water.</p><p class=\"feature-trait\"><strong>Stake to the Heart.</strong> The [[lookup @name lowercase]] is destroyed if a weapon that deals Piercing damage is driven into the [[lookup @name lowercase]]'s heart while the [[lookup @name lowercase]] has the Incapacitated condition.</p><p class=\"feature-trait\"><strong>Sunlight.</strong> The [[lookup @name lowercase]] takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.</p>",
+              "activities": {
+                "Damage: Running Water": {
+                  "name": "Damage: Running Water",
+                  "chatFlavor": "Damage from Running Water"
+                },
+                "Damage: Sunlight": {
+                  "name": "Damage: Sunlight",
+                  "chatFlavor": "Damage from Sunligvht"
+                },
+                "Staked to the Heart": {
+                  "name": "Staked to the Heart"
+                }
+              },
+              "effects": {
+                "Disadv. Attacks & Checks": {
+                  "name": "Disadv. Attacks & Checks",
+                  "description": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">While in sunlight, it has Disadvantage on attack rolls and ability checks.</span></p>"
+                }
+              }
+            }
+          },
+          "effects": {
+            "Ensangrentado": {
+              "name": "Ensangrentado"
+            },
+            "Muerto": {
+              "name": "Muerto"
+            }
+          },
+          "name": "Vampire Spawn"
+        },
+        "Vampire": {
+          "items": {
+            "Legendary Resistance": {
+              "name": "Legendary Resistance",
+              "description": "<p>If the [[lookup @name lowercase]] fails a saving throw, it can choose to succeed instead.</p>",
+              "activities": {
+                "Expend Use": {
+                  "name": "Expend Use",
+                  "condition": "fails a saving throw"
+                }
+              }
+            },
+            "Misty Escape": {
+              "name": "Misty Escape",
+              "description": "<p class=\"feature\">If the [[lookup @name lowercase]] drops to 0 Hit Points outside its resting place, the [[lookup @name lowercase]] uses Shape-Shift to become mist (no action required). If it can't use Shape-Shift, it is destroyed.</p><p class=\"feature\">While it has 0 Hit Points in mist form, it can't return to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it returns to its vampire form and has the &amp;Reference[Paralyzed apply=false] condition until it regains any Hit Points, and it regains 1 Hit Point after spending 1 hour there.</p>",
+              "activities": {
+                "Paralyzed": {
+                  "name": "Paralyzed"
+                }
+              },
+              "effects": {
+                "Paralyzed": {
+                  "name": "Paralyzed",
+                  "description": "<p>Once in its resting place, it returns to its vampire form and has the &amp;Reference[Paralyzed apply=false] condition until it regains any Hit Points, and it regains 1 Hit Point after spending 1 hour there.</p>"
+                }
+              }
+            },
+            "Spider Climb": {
+              "name": "Spider Climb",
+              "description": "<p>The [[lookup @name lowercase]] can climb difficult surfaces, including along ceilings, without needing to make an ability check.</p>"
+            },
+            "Multiattack (Vampire Form Only)": {
+              "name": "Multiattack (Vampire Form Only)",
+              "description": "<p>The [[lookup @name lowercase]] makes two [[/item .mmGraveStrike000]]{Grave Strike} attacks and uses [[/item .mmBite0000000000]]{Bite}.</p>",
+              "activities": {
+                "Use": {
+                  "name": "Use"
+                }
+              }
+            },
+            "Charm": {
+              "name": "Charm",
+              "description": "<p>The [[lookup @name lowercase]] casts <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCharmPerso]</em>, requiring no spell components and using Charisma as the spellcasting ability (spell save DC [[lookup @abilities.cha.dc]]), and the duration is [[lookup @duration.value activity=fcRXSTOlFJShCl52]] hours. The &amp;Reference[Charmed apply=false] target is a willing recipient of the [[lookup @name lowercase]]'s [[/item .mmBite0000000000]]{Bite}, the damage of which doesn't end the spell. When the spell ends, the target is unaware it was Charmed by the [[lookup @name lowercase]].</p>"
+            },
+            "Shape-Shift": {
+              "name": "Shape-Shift",
+              "description": "<p class=\"feature\">If the [[lookup @name lowercase]] isn't in sunlight or running water, it shape-shifts into a Tiny @UUID[Compendium.dnd5e.actors24.Actor.mmBat00000000000]{bat} (Speed 5 ft., Fly Speed 30 ft.) or a Medium cloud of mist (Speed 5 ft., Fly Speed 20 ft. [hover]), or it returns to its vampire form. Anything it is wearing transforms with it.</p><p class=\"feature\">While in bat form, the [[lookup @name lowercase]] can't speak. Its game statistics, other than its size and Speed, are unchanged.</p><p class=\"feature\">While in mist form, the [[lookup @name lowercase]] can't take any actions, speak, or manipulate objects. It is weightless and can enter an enemy's space and stop there. If air can pass through a space, the mist can do so, but it can't pass through liquid. It has Resistance to all damage, except the damage it takes from sunlight.</p>",
+              "activities": {
+                "Transform Into Bat": {
+                  "name": "Transform Into Bat"
+                }
+              }
+            },
+            "Beguile": {
+              "name": "Beguile",
+              "description": "<p>The [[lookup @name lowercase]] casts <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCommand000]</em>, requiring no spell components and using Charisma as the spellcasting ability (spell save DC [[lookup @abilities.cha.dc]]). The [[lookup @name lowercase]] can't take this action again until the start of its next turn.</p>"
+            },
+            "Deathless Strike": {
+              "name": "Deathless Strike",
+              "description": "<p class=\"feature\">The [[lookup @name lowercase]] moves up to half its Speed, and it makes one [[/item .mmGraveStrike000]]{Grave Strike} attack.</p>",
+              "activities": {
+                "Expend Use": {
+                  "name": "Expend Use"
+                }
+              }
+            },
+            "Vampire Weakness": {
+              "name": "Vampire Weakness",
+              "description": "<p class=\"feature\">The [[lookup @name lowercase]] has these weaknesses:</p><p class=\"feature-trait\"><strong>Forbiddance.</strong> The [[lookup @name lowercase]] can't enter a residence without an invitation from an occupant.</p><p class=\"feature-trait\"><strong>Running Water.</strong> The [[lookup @name lowercase]] takes 20 Acid damage if it ends its turn in running water.</p><p class=\"feature-trait\"><strong>Stake to the Heart.</strong> The [[lookup @name lowercase]] is destroyed if a weapon that deals Piercing damage is driven into the [[lookup @name lowercase]]'s heart while the [[lookup @name lowercase]] has the Incapacitated condition.</p><p class=\"feature-trait\"><strong>Sunlight.</strong> The [[lookup @name lowercase]] takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.</p>",
+              "activities": {
+                "Damage: Running Water": {
+                  "name": "Damage: Running Water",
+                  "chatFlavor": "Damage from Running Water"
+                },
+                "Damage: Sunlight": {
+                  "name": "Damage: Sunlight",
+                  "chatFlavor": "Damage from Sunligvht"
+                },
+                "Staked to the Heart": {
+                  "name": "Staked to the Heart"
+                }
+              },
+              "effects": {
+                "Disadv. Attacks & Checks": {
+                  "name": "Disadv. Attacks & Checks",
+                  "description": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">While in sunlight, it has Disadvantage on attack rolls and ability checks.</span></p>"
+                }
+              }
+            }
+          },
+          "name": "Vampire"
+        },
+        "Banshee": {
+          "items": {
+            "Multiattack": {
+              "name": "Multiattack",
+              "description": "<div class=\"rd__b  rd__b--3\"><p>The banshee makes two Corrupting Touch attacks and uses Horrify.</p></div>"
+            },
+            "Horrify": {
+              "name": "Horrify",
+              "description": "<div class=\"rd__b  rd__b--3\"><p><i>Wisdom Saving Throw:</i> DC <span class=\"rd__dc\">13</span>, one creature the banshee can see within 60 feet that can see the banshee. <i>Failure:</i> The target has the &amp;Reference[condition=Frightened] condition until the start of the banshee's next turn. <i>Success:</i> The target is immune to this banshee's Horrify for 24 hours.</p></div>"
+            },
+            "Deathly Wail": {
+              "name": "Deathly Wail",
+              "description": "<div class=\"rd__b  rd__b--3\"><p>The banshee releases a mournful wail if it isn't in sunlight. <i>Constitution Saving Throw:</i> DC <span class=\"rd__dc\">13</span>, each creature within 30 feet that can hear the wail and isn't a Construct or an Undead. <i>Failure:</i> If the target has 25 @variantrule[Hit Points|XPHB] or fewer, it drops to 0 @variantrule[Hit Points|XPHB]. Otherwise, the target takes 10 ([[/damage 3d6 type=psychic]]) damage.</p></div>"
+            },
+            "Detect Life": {
+              "name": "Detect Life",
+              "description": "<div class=\"rd__b  rd__b--3\"><p>The banshee magically senses the direction of creatures up to 1 mile away that aren't Constructs or Undead.</p></div>"
+            },
+            "Incorporeal Movement": {
+              "name": "Incorporeal Movement",
+              "description": "<div class=\"rd__b  rd__b--3\"><p>The banshee can move through other creatures and objects as if they were @variantrule[Difficult Terrain|XPHB]. It takes 5 ([[/damage 1d10 type=force]]) damage if it ends its turn inside an object.</p></div>"
+            }
+          },
+          "effects": {
+            "Hechizado": {
+              "name": "Hechizado",
+              "description": "@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.vLAsIUa0FhZNsyLk inline]"
+            },
+            "Ensangrentado": {
+              "name": "Ensangrentado"
+            }
+          },
+          "name": "Banshee"
+        },
+        "Animated Armor": {
+          "items": {
+            "Multiattack": {
+              "name": "Multiattack",
+              "description": "<div class=\"rd__b  rd__b--3\"><p>The armor makes two Slam attacks.</p></div>"
+            }
+          },
+          "name": "Animated Armor"
+        },
+        "Seraphine": {
+          "name": "Seraphine"
+        }
+      }
+    },
+    "Y3iZEvi8sU8gwUJT": {
+      "name": "Walls of Ravenloft (Battlemap; Player Version)",
+      "notes": {
+        "K6. Overlook": "K6. Overlook",
+        "K5. Chapel Garden": "K5. Chapel Garden",
+        "K4. Carriage House": "K4. Carriage House",
+        "K3. Servants' Courtyard": "K3. Servants' Courtyard",
+        "K2. Center Court Gate": "K2. Center Court Gate",
+        "K1. Front Courtyard": "K1. Front Courtyard"
+      }
+    },
+    "GVS7zjnm7Gu0uYxF": {
+      "name": "Greyhawkins"
+    },
+    "fcDnWhAEgnOICN8Z": {
+      "name": "Dungeon of Shadows",
+      "notes": {
+        "D5: Den of Itsy": "D5: Den of Itsy",
+        "D6: Altar of Yeenoghu": "D6: Altar of Yeenoghu",
+        "D1: Chamber of Choice": "D1: Chamber of Choice",
+        "D2: Wasteland of Filth": "D2: Wasteland of Filth",
+        "D3: Labyrinth of Doom": "D3: Labyrinth of Doom",
+        "S6: Altar of Vecna": "S6: Altar of Vecna",
+        "S5: Den of Bitsy": "S5: Den of Bitsy",
+        "S4: Forge of Annihilation": "S4: Forge of Annihilation",
+        "S1: Chamber of Bad Choices": "S1: Chamber of Bad Choices",
+        "S2: Wasteland of Filthy Vines": "S2: Wasteland of Filthy Vines",
+        "S3: Labyrinth of Gloom": "S3: Labyrinth of Gloom",
+        "D4: Forge of Gibbletrax": "D4: Forge of Gibbletrax"
+      }
+    },
+    "TmoAk9sdGeTp0vEi": {
+      "name": "Farm Tunnels",
+      "notes": {
+        "T9: Gunthar's Crypt": "T9: Gunthar's Crypt",
+        "T8: Crypt Antechamber": "T8: Crypt Antechamber",
+        "T7: Vine-Covered Tunnel": "T7: Vine-Covered Tunnel",
+        "T1: Entrance Tunnel": "T1: Entrance Tunnel",
+        "T6: Boneyard": "T6: Boneyard",
+        "T2: Fungus-Infested Tunnel": "T2: Fungus-Infested Tunnel",
+        "T4: Ankheg's Nest": "T4: Ankheg's Nest",
+        "T3: Spore-Filled Tunnel": "T3: Spore-Filled Tunnel",
+        "T5: Foggy Chamber": "T5: Foggy Chamber"
+      }
+    },
+    "R4Sg7RH3qy0tRXfb": {
+      "name": "Oakshore Docks",
+      "notes": {
+        "07b: Abandoned House Bedroom": "07b: Abandoned House Bedroom",
+        "06: Alley": "06: Alley",
+        "07a: Abandoned House Living Area": "07a: Abandoned House Living Area",
+        "04: Tavern": "04: Tavern",
+        "01a: Cobbler's Storefront": "01a: Cobbler's Storefront",
+        "08: Pier": "08: Pier",
+        "01b: Cobbler's Workshop": "01b: Cobbler's Workshop",
+        "02b: Carpenter's Workshop": "02b: Carpenter's Workshop",
+        "02a: Carpenter's Home": "02a: Carpenter's Home",
+        "03a: Tailor's Storefront": "03a: Tailor's Storefront",
+        "03b: Tailor's Secret Room": "03b: Tailor's Secret Room",
+        "05: Herbalist's Shop": "05: Herbalist's Shop"
+      }
+    },
+    "hSPa9rzc5EiameBW": {
+      "name": "Hellfire Dome",
+      "notes": {
+        "H6: Infernal Prison": "H6: Infernal Prison",
+        "H5: Infernal Court": "H5: Infernal Court",
+        "H2: Fiend Feud": "H2: Fiend Feud",
+        "H7: Demodragon Lair": "H7: Demodragon Lair",
+        "H4: Sanctuary of Yeenoghu": "H4: Sanctuary of Yeenoghu",
+        "H3: Demonic Incursion": "H3: Demonic Incursion",
+        "H1: Hellfire Arena": "H1: Hellfire Arena"
+      }
+    },
+    "DmInHPRcqTOBfDyU": {
+      "name": "Dungeon of Shadows (Player Version)",
+      "notes": {
+        "D4: Forge of Gibbletrax": "D4: Forge of Gibbletrax",
+        "D6: Altar of Yeenoghu": "D6: Altar of Yeenoghu",
+        "D1: Chamber of Choice": "D1: Chamber of Choice",
+        "D2: Wasteland of Filth": "D2: Wasteland of Filth",
+        "D3: Labyrinth of Doom": "D3: Labyrinth of Doom",
+        "S6: Altar of Vecna": "S6: Altar of Vecna",
+        "S4: Forge of Annihilation": "S4: Forge of Annihilation",
+        "S1: Chamber of Bad Choices": "S1: Chamber of Bad Choices",
+        "S5: Den of Bitsy": "S5: Den of Bitsy",
+        "S2: Wasteland of Filthy Vines": "S2: Wasteland of Filthy Vines",
+        "S3: Labyrinth of Gloom": "S3: Labyrinth of Gloom",
+        "D5: Den of Itsy": "D5: Den of Itsy"
+      }
+    },
+    "o2PM7pxhw7PTQzIe": {
+      "name": "Farm Tunnels (Player Version)",
+      "notes": {
+        "T9: Gunthar's Crypt": "T9: Gunthar's Crypt",
+        "T8: Crypt Antechamber": "T8: Crypt Antechamber",
+        "T5: Foggy Chamber": "T5: Foggy Chamber",
+        "T7: Vine-Covered Tunnel": "T7: Vine-Covered Tunnel",
+        "T4: Ankheg's Nest": "T4: Ankheg's Nest",
+        "T6: Boneyard": "T6: Boneyard",
+        "T3: Spore-Filled Tunnel": "T3: Spore-Filled Tunnel",
+        "T2: Fungus-Infested Tunnel": "T2: Fungus-Infested Tunnel",
+        "T1: Entrance Tunnel": "T1: Entrance Tunnel"
+      }
+    },
+    "94B27vyINStwJzB4": {
+      "name": "Oakshore Docks (Player Version)",
+      "notes": {
+        "07b: Abandoned House Bedroom": "07b: Abandoned House Bedroom",
+        "07a: Abandoned House Living Area": "07a: Abandoned House Living Area",
+        "04: Tavern": "04: Tavern",
+        "06: Alley": "06: Alley",
+        "01a: Cobbler's Storefront": "01a: Cobbler's Storefront",
+        "08: Pier": "08: Pier",
+        "01b: Cobbler's Workshop": "01b: Cobbler's Workshop",
+        "02b: Carpenter's Workshop": "02b: Carpenter's Workshop",
+        "02a: Carpenter's Home": "02a: Carpenter's Home",
+        "03a: Tailor's Storefront": "03a: Tailor's Storefront",
+        "03b: Tailor's Secret Room": "03b: Tailor's Secret Room",
+        "05: Herbalist's Shop": "05: Herbalist's Shop"
+      }
+    },
+    "utR92EkSbipjxBwo": {
+      "name": "Hellfire Dome (Player Version)",
+      "notes": {
+        "H2: Fiend Feud": "H2: Fiend Feud",
+        "H5: Infernal Court": "H5: Infernal Court",
+        "H7: Demodragon Lair": "H7: Demodragon Lair",
+        "H3: Demonic Incursion": "H3: Demonic Incursion",
+        "H6: Infernal Prison": "H6: Infernal Prison",
+        "H4: Sanctuary of Yeenoghu": "H4: Sanctuary of Yeenoghu",
+        "H1: Hellfire Arena": "H1: Hellfire Arena"
+      }
+    }
+  },
+  "_meta": {
+    "generatedBy": "plutonium-babele-postimport-exporter",
+    "generatedAt": "2026-04-14T10:50:49.780Z",
+    "source": {
+      "mode": "world",
+      "id": "dandd",
+      "folderId": null
+    },
+    "type": "Scene",
+    "entryCount": 94
+  }
+}
