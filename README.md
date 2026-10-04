@@ -1,5 +1,13 @@
 # PBPE Exportador para Babele
 
+<p align="center">
+  <a href="https://github.com/ManuRomera/pbpe-exportador/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/ManuRomera/pbpe-exportador?include_prereleases&style=for-the-badge&color=4a7c59&label=release"></a>
+  <a href="https://foundryvtt.com"><img alt="Foundry VTT V13" src="https://img.shields.io/badge/Foundry%20VTT-V13-57d8c8?style=for-the-badge"></a>
+  <a href="https://github.com/ManuRomera/pbpe-exportador/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/ManuRomera/pbpe-exportador/total?style=for-the-badge&color=ff7a1f"></a>
+  <img alt="System" src="https://img.shields.io/badge/system-agnostic-2b3245?style=for-the-badge">
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-2b3245?style=for-the-badge"></a>
+</p>
+
 Modulo para Foundry VTT que convierte contenido ya importado dentro de Foundry en archivos JSON compatibles con Babele.
 
 Su caso de uso principal es este:
